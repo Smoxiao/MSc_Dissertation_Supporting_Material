@@ -1,0 +1,11 @@
+experiment_scope,model,tn,fp,fn,tp,source
+full_data,Logistic Regression,148727,15111,2692,11553,results/full/logistic_regression/metrics.json
+full_data,Linear SVM,148085,15753,2951,11294,results/full/linear_svm/metrics.json
+full_data,DistilBERT,160900,2938,5284,8961,results/full/distilbert/metrics.json
+full_data,BERT-base,161002,2836,5231,9014,results/full/bert_base/metrics.json
+full_data,HateBERT,160664,3174,5020,9225,results/full/hatebert/metrics.json
+fixed_200k,Logistic Regression,150832,13006,3735,10510,results/200k/logistic_regression/metrics.json
+fixed_200k,Linear SVM,152765,11073,4851,9394,results/200k/linear_svm/metrics.json
+fixed_200k,DistilBERT,160286,3552,5358,8887,results/200k/distilbert/metrics.json
+fixed_200k,BERT-base,159979,3859,5023,9222,results/200k/bert_base/metrics.json
+fixed_200k,HateBERT,159266,4572,4614,9631,results/200k/hatebert/metrics.json

@@ -1,0 +1,11 @@
+experiment_scope,model,accuracy,toxic_precision,toxic_recall,toxic_f1,macro_f1,source_note
+fixed_200k,Logistic Regression,0.906,0.4469,0.7378,0.5567,0.752,rounded to four decimals from selected results
+fixed_200k,Linear SVM,0.9106,0.459,0.6595,0.5413,0.7459,rounded to four decimals from selected results
+fixed_200k,DistilBERT,0.95,0.7144,0.6239,0.6661,0.8195,rounded to four decimals from selected results
+fixed_200k,BERT-base,0.9501,0.705,0.6474,0.675,0.824,rounded to four decimals from selected results
+fixed_200k,HateBERT,0.9484,0.6781,0.6761,0.6771,0.8245,rounded to four decimals from selected results
+full_data,Logistic Regression,0.9,0.4333,0.811,0.5648,0.7542,rounded to four decimals from selected results
+full_data,Linear SVM,0.895,0.4176,0.7928,0.547,0.7438,rounded to four decimals from selected results
+full_data,DistilBERT,0.9536,0.74,0.6477,0.6908,0.8329,selected one-epoch run; rounded to four decimals
+full_data,BERT-base,0.9547,0.7607,0.6328,0.6909,0.8332,rounded to four decimals from selected results
+full_data,HateBERT,0.954,0.744,0.6476,0.6925,0.8338,rounded to four decimals from selected results

@@ -1,0 +1,6 @@
+{
+  "tfidf_seconds": 38.75369954300004,
+  "training_seconds": 10.610159177000014,
+  "prediction_seconds": 0.053417976999980965,
+  "total_pipeline_seconds": 49.417276697000034
+}

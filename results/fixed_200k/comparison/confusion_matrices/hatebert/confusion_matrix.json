@@ -1,0 +1,29 @@
+{
+  "model": "hatebert",
+  "labels": [
+    "non_toxic",
+    "toxic"
+  ],
+  "matrix_order": "rows=true labels, columns=predicted labels",
+  "matrix": [
+    [
+      159266,
+      4572
+    ],
+    [
+      4614,
+      9631
+    ]
+  ],
+  "accuracy": 0.9484173110291269,
+  "toxic_precision": 0.6780961768640428,
+  "toxic_recall": 0.6760968760968761,
+  "toxic_f1": 0.6770950506186727,
+  "macro_f1": 0.824532426962587,
+  "tn": 159266,
+  "fp": 4572,
+  "fn": 4614,
+  "tp": 9631,
+  "examples": 178083,
+  "toxic_examples": 14245
+}

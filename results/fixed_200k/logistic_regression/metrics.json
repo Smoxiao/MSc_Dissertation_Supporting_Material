@@ -1,0 +1,21 @@
+{
+  "model": "logistic_regression",
+  "seed": 42,
+  "train_examples": 200000,
+  "validation_examples": 20000,
+  "test_examples": 178083,
+  "test_identity_verified_against_previous_200k": true,
+  "accuracy": 0.9059932727997619,
+  "toxic_precision": 0.44692974995747575,
+  "toxic_recall": 0.7378027378027378,
+  "toxic_f1": 0.5566589867853076,
+  "macro_f1": 0.7520406474260389,
+  "tn": 150832,
+  "fp": 13006,
+  "fn": 3735,
+  "tp": 10510,
+  "training_seconds": 5.619769093999935,
+  "vectorization_seconds": 38.75369954300004,
+  "prediction_seconds": 0.0479161620000923,
+  "total_pipeline_seconds": 44.421384799000066
+}

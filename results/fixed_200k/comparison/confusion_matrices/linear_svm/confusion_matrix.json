@@ -1,0 +1,29 @@
+{
+  "model": "Fixed-200k test confusion matrix",
+  "labels": [
+    "non_toxic",
+    "toxic"
+  ],
+  "matrix_order": "rows=true labels, columns=predicted labels",
+  "matrix": [
+    [
+      152765,
+      11073
+    ],
+    [
+      4851,
+      9394
+    ]
+  ],
+  "accuracy": 0.9105810212092115,
+  "toxic_precision": 0.458982752723897,
+  "toxic_recall": 0.6594594594594595,
+  "toxic_f1": 0.5412537451025582,
+  "macro_f1": 0.7458581653645587,
+  "tn": 152765,
+  "fp": 11073,
+  "fn": 4851,
+  "tp": 9394,
+  "examples": 178083,
+  "toxic_examples": 14245
+}

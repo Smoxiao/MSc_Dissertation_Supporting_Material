@@ -1,0 +1,6 @@
+model,model_family,train_rows,validation_rows,test_rows,accuracy,toxic_precision,toxic_recall,toxic_f1,macro_f1,tn,fp,fn,tp,training_seconds,source
+Logistic Regression,Traditional ML,200000,20000,178083,0.9059932728,0.4469297500,0.7378027378,0.5566589868,0.7520406474,150832,13006,3735,10510,5.619769094,results/fixed_200k/logistic_regression/metrics.json
+Linear SVM,Traditional ML,200000,20000,178083,0.9105810212,0.4589827527,0.6594594595,0.5412537451,0.7458581654,152765,11073,4851,9394,10.610159177,results/fixed_200k/linear_svm/metrics.json
+DistilBERT,General-purpose Transformer,200000,20000,178083,0.9499671501,0.7144464989,0.6238680239,0.66609204017,0.8195247959,160286,3552,5358,8887,3126.0936,results/fixed_200k/distilbert/metrics.json
+BERT-base,General-purpose Transformer,200000,20000,178083,0.9501243802,0.7049919731,0.6473850474,0.67496157506,0.8239757395,159979,3859,5023,9222,6006.6018,results/fixed_200k/bert_base/metrics.json
+HateBERT,Task-specific Transformer,200000,20000,178083,0.9484173110,0.6780961769,0.6760968761,0.67709505062,0.8245324260,159266,4572,4614,9631,6071.6832,results/fixed_200k/hatebert/metrics.json

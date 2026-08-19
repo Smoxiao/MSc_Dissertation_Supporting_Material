@@ -1,0 +1,29 @@
+{
+  "model": "bert_base",
+  "labels": [
+    "non_toxic",
+    "toxic"
+  ],
+  "matrix_order": "rows=true labels, columns=predicted labels",
+  "matrix": [
+    [
+      159979,
+      3859
+    ],
+    [
+      5023,
+      9222
+    ]
+  ],
+  "accuracy": 0.950124380204736,
+  "toxic_precision": 0.7049919730907424,
+  "toxic_recall": 0.6473850473850474,
+  "toxic_f1": 0.6749615750567225,
+  "macro_f1": 0.8239757394806785,
+  "tn": 159979,
+  "fp": 3859,
+  "fn": 5023,
+  "tp": 9222,
+  "examples": 178083,
+  "toxic_examples": 14245
+}

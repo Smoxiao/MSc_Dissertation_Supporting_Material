@@ -1,0 +1,31 @@
+{
+  "model": "distilbert",
+  "pretrained_model": "distilbert-base-uncased",
+  "validation_best_toxic_f1": 0.691141974159437,
+  "test_metrics": {
+    "accuracy": 0.9536171335837783,
+    "toxic_precision": 0.7399951880664046,
+    "toxic_recall": 0.6477360477360478,
+    "toxic_f1": 0.6907988320730702,
+    "macro_f1": 0.832863447215584,
+    "tn": 160596,
+    "fp": 3242,
+    "fn": 5018,
+    "tp": 9227,
+    "confusion_matrix": [
+      [
+        160596,
+        3242
+      ],
+      [
+        5018,
+        9227
+      ]
+    ]
+  },
+  "timing": {
+    "tokenization_seconds": 229.06204542800003,
+    "training_seconds": 10529.672188898,
+    "prediction_seconds": 435.14284424999823
+  }
+}

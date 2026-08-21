@@ -1,5 +1,6 @@
 # MSc_Dissertation_Supporting_Material
-Please download from onedrive
+Please download the data from OneDrive
+
 https://qmulprod-my.sharepoint.com/:f:/r/personal/bb25009_qmul_ac_uk/Documents/Ying%20Xie%20support%20materials-%20data/data?d=w39e47691320746c7b0dc0285d7a52d13&csf=1&web=1&e=3QQ1aX
 
 Project structure

@@ -1,0 +1,28 @@
+{
+  "model_key": "distilbert",
+  "model_name": "distilbert-base-uncased",
+  "seed": 42,
+  "train_examples": 1424657,
+  "validation_examples": 178082,
+  "test_examples": 178083,
+  "epochs": 1,
+  "per_device_batch_size": 32,
+  "max_length": 128,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "tokenization_seconds": 229.06204542800003,
+  "training_seconds": 10529.672188898,
+  "prediction_seconds": 435.14284424999823,
+  "best_checkpoint": "/kaggle/working/distilbert_full_controlled/trainer_checkpoints/checkpoint-22261",
+  "best_validation_toxic_f1": 0.691141974159437,
+  "python": "3.12.13",
+  "pytorch": "2.10.0+cu128",
+  "cuda_available": true,
+  "gpu_count": 2,
+  "gpu_names": [
+    "Tesla T4",
+    "Tesla T4"
+  ],
+  "cpu_count": 4
+}

@@ -1,0 +1,68 @@
+{
+  "model": "logistic_regression",
+  "seed": 42,
+  "data": {
+    "train_examples": 1424657,
+    "validation_examples": 178082,
+    "test_examples": 178083,
+    "train_sha256": "a8b0b2a763a7ca2170fec8a26aad90ece68d516996d4362d08cdf25d3897109d",
+    "validation_sha256": "5b10dcb12eaf975e28ea4e6180c0a22a24334814bee29de1728c483fc3dd4d56",
+    "test_sha256": "88939db037ae8d722f93b71029b74d8143a33a226f9ff96441b5a37f609cf1e5"
+  },
+  "timing": {
+    "data_loading_seconds": 16.62875566799994,
+    "vectorization_seconds": 198.598663537,
+    "training_seconds": 63.78291783099985,
+    "prediction_seconds": 0.08963333500014414,
+    "model_pipeline_seconds": 63.872551165999994,
+    "full_pipeline_seconds": 262.471214703
+  },
+  "validation_metrics": {
+    "accuracy": 0.8993272761986051,
+    "toxic_precision": 0.4320554920119544,
+    "toxic_recall": 0.8220428220428221,
+    "toxic_f1": 0.5664119183515527,
+    "macro_f1": 0.754732184018224,
+    "confusion_matrix": [
+      [
+        148444,
+        15393
+      ],
+      [
+        2535,
+        11710
+      ]
+    ],
+    "tn": 148444,
+    "fp": 15393,
+    "fn": 2535,
+    "tp": 11710
+  },
+  "test_metrics": {
+    "accuracy": 0.9000297614033905,
+    "toxic_precision": 0.43328082808280827,
+    "toxic_recall": 0.811021411021411,
+    "toxic_f1": 0.5648145884768633,
+    "macro_f1": 0.7541716008200461,
+    "confusion_matrix": [
+      [
+        148727,
+        15111
+      ],
+      [
+        2692,
+        11553
+      ]
+    ],
+    "tn": 148727,
+    "fp": 15111,
+    "fn": 2692,
+    "tp": 11553
+  },
+  "environment": {
+    "python": "3.12.13",
+    "platform": "Linux-6.12.90+-x86_64-with-glibc2.35",
+    "processor": "x86_64",
+    "cpu_count": 4
+  }
+}

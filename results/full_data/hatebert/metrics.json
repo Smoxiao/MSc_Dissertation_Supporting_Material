@@ -1,0 +1,16 @@
+{
+  "accuracy": 0.9539877472863777,
+  "toxic_precision": 0.7440116138398258,
+  "toxic_recall": 0.6475956475956476,
+  "toxic_f1": 0.6924635940549467,
+  "macro_f1": 0.833798636267342,
+  "tn": 160664,
+  "fp": 3174,
+  "fn": 5020,
+  "tp": 9225,
+  "test_loss": 0.2424207627773285,
+  "training_seconds": 21483.104988998,
+  "inference_seconds": 723.6659799589979,
+  "total_runtime_seconds": 22842.839516293,
+  "test_examples": 178083
+}

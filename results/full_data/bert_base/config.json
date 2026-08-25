@@ -1,0 +1,75 @@
+{
+  "run_name": "bert_base_full_data",
+  "model_name": "bert-base-uncased",
+  "data_directory": "/kaggle/input/datasets/shirley124123/full-data",
+  "files": {
+    "train": "/kaggle/input/datasets/shirley124123/full-data/train.csv",
+    "validation": "/kaggle/input/datasets/shirley124123/full-data/validation.csv",
+    "test": "/kaggle/input/datasets/shirley124123/full-data/test.csv"
+  },
+  "input_sha256": {
+    "train": "a8b0b2a763a7ca2170fec8a26aad90ece68d516996d4362d08cdf25d3897109d",
+    "validation": "5b10dcb12eaf975e28ea4e6180c0a22a24334814bee29de1728c483fc3dd4d56",
+    "test": "88939db037ae8d722f93b71029b74d8143a33a226f9ff96441b5a37f609cf1e5"
+  },
+  "distributions": {
+    "train": {
+      "rows": 1424657,
+      "non_toxic": 1310698,
+      "toxic": 113959,
+      "toxic_rate": 0.07999048191950764
+    },
+    "validation": {
+      "rows": 178082,
+      "non_toxic": 163837,
+      "toxic": 14245,
+      "toxic_rate": 0.07999123999056615
+    },
+    "test": {
+      "rows": 178083,
+      "non_toxic": 163838,
+      "toxic": 14245,
+      "toxic_rate": 0.07999079081102632
+    }
+  },
+  "label_definition": "label = 1 when target >= 0.5",
+  "seed": 42,
+  "epochs": 1,
+  "max_length": 128,
+  "train_batch_size_per_device": 16,
+  "eval_batch_size_per_device": 32,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "fp16": true,
+  "best_metric": "validation toxic_f1",
+  "best_checkpoint": "/kaggle/working/bert_base_full_data/trainer_checkpoints/checkpoint-44521",
+  "best_validation_toxic_f1": 0.6905415713196034,
+  "run_started_utc": "2026-08-13T19:32:41.428903+00:00",
+  "run_finished_utc": "2026-08-14T01:47:24.245224+00:00",
+  "gpu_report": [
+    {
+      "index": 0,
+      "name": "Tesla T4",
+      "memory_gb": 14.56,
+      "compute_capability": [
+        7,
+        5
+      ]
+    },
+    {
+      "index": 1,
+      "name": "Tesla T4",
+      "memory_gb": 14.56,
+      "compute_capability": [
+        7,
+        5
+      ]
+    }
+  ],
+  "platform": "Linux-6.12.90+-x86_64-with-glibc2.35",
+  "python": "3.12.13",
+  "torch": "2.10.0+cu128",
+  "transformers": "5.0.0",
+  "sklearn": "1.6.1"
+}

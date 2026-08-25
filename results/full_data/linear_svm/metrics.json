@@ -1,0 +1,68 @@
+{
+  "model": "linear_svm",
+  "seed": 42,
+  "data": {
+    "train_examples": 1424657,
+    "validation_examples": 178082,
+    "test_examples": 178083,
+    "train_sha256": "a8b0b2a763a7ca2170fec8a26aad90ece68d516996d4362d08cdf25d3897109d",
+    "validation_sha256": "5b10dcb12eaf975e28ea4e6180c0a22a24334814bee29de1728c483fc3dd4d56",
+    "test_sha256": "88939db037ae8d722f93b71029b74d8143a33a226f9ff96441b5a37f609cf1e5"
+  },
+  "timing": {
+    "data_loading_seconds": 16.62875566799994,
+    "vectorization_seconds": 198.598663537,
+    "training_seconds": 122.40890950599987,
+    "prediction_seconds": 0.0906349950000731,
+    "model_pipeline_seconds": 122.49954450099995,
+    "full_pipeline_seconds": 321.09820803799994
+  },
+  "validation_metrics": {
+    "accuracy": 0.8943464246807651,
+    "toxic_precision": 0.4167880553532411,
+    "toxic_recall": 0.8034398034398035,
+    "toxic_f1": 0.5488550533509171,
+    "macro_f1": 0.74451106697801,
+    "confusion_matrix": [
+      [
+        147822,
+        16015
+      ],
+      [
+        2800,
+        11445
+      ]
+    ],
+    "tn": 147822,
+    "fp": 16015,
+    "fn": 2800,
+    "tp": 11445
+  },
+  "test_metrics": {
+    "accuracy": 0.8949703228269964,
+    "toxic_precision": 0.4175694162014271,
+    "toxic_recall": 0.7928395928395928,
+    "toxic_f1": 0.5470309018696116,
+    "macro_f1": 0.7438146817382383,
+    "confusion_matrix": [
+      [
+        148085,
+        15753
+      ],
+      [
+        2951,
+        11294
+      ]
+    ],
+    "tn": 148085,
+    "fp": 15753,
+    "fn": 2951,
+    "tp": 11294
+  },
+  "environment": {
+    "python": "3.12.13",
+    "platform": "Linux-6.12.90+-x86_64-with-glibc2.35",
+    "processor": "x86_64",
+    "cpu_count": 4
+  }
+}

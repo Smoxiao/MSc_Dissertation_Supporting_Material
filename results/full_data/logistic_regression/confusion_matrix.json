@@ -1,0 +1,29 @@
+{
+  "model": "Full-data test confusion matrix",
+  "labels": [
+    "non_toxic",
+    "toxic"
+  ],
+  "matrix_order": "rows=true labels, columns=predicted labels",
+  "matrix": [
+    [
+      148727,
+      15111
+    ],
+    [
+      2692,
+      11553
+    ]
+  ],
+  "accuracy": 0.9000297614033905,
+  "toxic_precision": 0.43328082808280827,
+  "toxic_recall": 0.811021411021411,
+  "toxic_f1": 0.5648145884768633,
+  "macro_f1": 0.7541716008200461,
+  "tn": 148727,
+  "fp": 15111,
+  "fn": 2692,
+  "tp": 11553,
+  "examples": 178083,
+  "toxic_examples": 14245
+}

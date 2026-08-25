@@ -1,0 +1,15 @@
+{
+  "model_name": "GroNLP/hateBERT",
+  "run_name": "hatebert",
+  "seed": 42,
+  "train_rows": 200000,
+  "validation_rows": 20000,
+  "test_rows": 178083,
+  "epochs": 2,
+  "max_length": 128,
+  "train_batch_size": 16,
+  "eval_batch_size": 32,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "fp16": true
+}

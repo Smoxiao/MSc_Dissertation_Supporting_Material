@@ -1,0 +1,674 @@
+id,text,true_label,continuous_toxicity_score,group,error_type,LR_pred,SVM_pred,DistilBERT_pred,BERT_pred,HateBERT_pred
+5479370,"It's not just the backcountry that has a litter problem. People drive to our local parks and can't manage to take their trash home with them. If the city-provided trash cans are full, they just toss it nearby. 
+
+Sunday morning there were huge rubbish piles all along the river bike paths, some near trash cans and others near places where people go down and swim (and drink and whatever). 
+
+The city's Parks and Open Space department now has to pay people to clean up this mess every morning. Unfortunately, they don't venture off the path to get what blew away (or was dumped on the shore). I wouldn't be surprised if these same litterbugs don't also complain about rampant government waste while they cause this extra unnecessary (but for their actions) government expense.",0,0.0,General,"LR, SVM",1,1,0,0,0
+5756180,"The obvious result should be that the abusers on reserves get charged and sent to jail. The Indians do not want this . Indians want a forum to trash Canadians ,which will solve nothing. Indians need to accept facts regardless who they want to blame. Indians are the ones committing the crimes.",0,0.3,General,"LR, SVM, DistilBERT, BERT, HateBERT",1,1,1,1,1
+5253657,"Shawn, you could have stopped at "" I cannot think"" and had a statement thats 100% accurate. Instead you put in a bunch of trash that proves you ""can not think"".",0,0.4868421052631579,General,"LR, SVM, DistilBERT, BERT, HateBERT",1,1,1,1,1
+845522,"Now the absence of ""one drop"" nonsense is defined as ""oppression."" Most of the people I've encountered who insist that ""black"" is a ""social construct"" and has nothing to do with phenotype are just trying to save and legitimize the ""one drop"" myth.",0,0.3,General,"LR, SVM",1,1,0,0,0
+544645,"Why is denying the Jewish Holocaust of 75 years ago more objectionable than ""race-baiting and misogyny""? Trump's ""invincible ignorance"" has emboldened the lowest minds and awakened the most destructive wave of racism I've felt in my 60 years. And that won't end on election day. Signed, one of The African Americans, JD, dodging bullets in my miserable hovel in suburban Detroit - speaking here for The Mexicans, some of whom I assume are probably very good people . . .",0,0.4,General,"LR, SVM",1,1,0,0,0
+4993971,"You have neo-Nazis like Steve Bannon sitting in the White House and Erdogan thinks, ""Nazism is alive in the West"". Nazism is not just alive, Nazism now sits in the corridors of power.",0,0.1666666666666666,General,"LR, SVM",1,1,0,0,0
+5874126,A lame attempt to turn this topic into a hate on environmentalists,0,0.1666666666666666,General,"LR, SVM",1,1,0,0,0
+5893812,So sad that you are so blinded by anti-Clintonism that you would sell out our country to the Russians. WOW!,0,0.0,General,"LR, SVM",1,1,0,0,0
+5224311,"What a silly thing to say.
+Nike invested so much time and $$$ into this, do you really think they'd risk their brand image and net worth by having a drugged up athlete run that marathon?",0,0.391304347826087,General,"LR, SVM",1,1,0,0,0
+6293712,"You are ok with forcing young girls into marriage with old men? If you can't see the difference b/w these places, I hope you don't have daughters yourself.",0,0.2,General,"LR, SVM",1,1,0,0,0
+6295514,"Actually lesparKKK made a comment a few weeks back that compared Michelle Obama to a monkey so no, he's made racist statements on here before...",0,0.3428571428571429,General,"LR, SVM",1,1,0,0,0
+1040220,Ever heard of Carpooling? Birth control? Waiting around for government to fix your self-induced misery?,0,0.3,General,"LR, SVM",1,1,0,0,0
+919791,"Islam has (according to the CIA) 60 thousand terrorists among 1.6 billion Muslims worldwide. That's less than four thousandths of a percent terrorists, or one in 26 .7 thousand Muslims. And most of them are identifiable as combatants in a few theaters that our CIA knows about.
+
+Not even close to a ""flood"". We have a similar percent of home-grown terrorist among our own citizens, mostly non-Muslim.",0,0.0,General,"LR, SVM, DistilBERT",1,1,1,0,0
+707513,Next election  we should dump all who voted for the cash grab. Every last cent will be wasted.,0,0.0,General,"LR, SVM",1,1,0,0,0
+5487423,"First the Republicans spend years playing silly games repeatedly voting to repeal Obamacare. Now they can't even come up with a plan that they can pass all on their own?
+
+Hey GOP, here's a thought. Why not try to come up with a plan that helps all Americans get healthcare while constraining the price increases, and sharing the burden of that plan fairly?",0,0.2,General,"LR, SVM",1,1,0,0,0
+6071967,"You might supply a link to it, but if it is the typical leftist screed, do not bother.  We have heard it many times before and it is not guns that kill people, it is people that kill people.  If you want to solve the problem of mass killings that is where you have to put your efforts.  If you try to remove guns, it will just let the crooks and killers have the guns.   Also, if they can not get guns, they will use trucks, knives, and anything else they can get.  Getting rid of guns does not work.",0,0.0,General,"LR, SVM",1,1,0,0,0
+429717,"LOL Mark Begich demands that republicans submit to his scrutiny. New flash Mark, you want good, honest people who care about their country to not vote for Trump? Put someone beside Hillary on the ticket!
+
+Some people truly like him, some find him a nice change from the politics you played while mayor and senator, some don't like him at all but will still vote for him. But there are those that really hate him and will still vote for him. Why? Because he is running against a lowlife, thieving, lying, bribing, bribe taking scumbag like Hillary.
+
+Trump is a wild card, not quite sure what you are gonna get with him. Clinton is not, it is guaranteed 4 more years of Obama, maybe 8.",0,0.4189189189189189,General,"LR, SVM, DistilBERT, BERT, HateBERT",1,1,1,1,1
+6181135,"Plainthinker, indeed you have; and don't think for a moment that I haven't noted it. I know you're an ex-cop, so you bring that perspective, which, to my delight, has not clouded but rather informed your judgment. I was a bit harsh here, and I apologize.",0,0.0,General,SVM,0,1,0,0,0
+5265823,Are you projecting your convictions of masturbation? Left field from a lefty doesn't equal a right.,1,0.7575757575757573,General,"LR, SVM",0,0,1,1,1
+654994,"It is a quite serious comment. It's saying that if you disapprove of same sex marriage you shouldn't have one. But your personal disapproval should have no bearing on others having one.
+
+And don't give us twaddle about ""disapproving of rape"" or something similar. You know it's a false analogy. Married gays are not the moral equivalent of rapists.",0,0.0,General,"LR, SVM, BERT",1,1,0,1,0
+5187333,"How? Well first, you make sure they're poor and uneducated. Let's see, how can we accomplish this? Maybe, perhaps, restricting affordable access to birth control and slashing sex Ed in schools? An uneducated mom is often a poor and easily manipulated mom. 
+
+secondly, you convince them that they're all just temporarily embarrassed millionaires. 
+
+Third, you tell them their safety is at risk and the only way to make them safer is to become xenophobic and increase military spending to astronomic levels. 
+
+Finally, you demonize feminists as ""anti-American militants.""",0,0.4,General,"LR, SVM",1,1,0,0,0
+6332397,Did not the chief priests whip up the crowd to crucify Our Lord?  How is it anti semetic to acknowledge that some of Our Lord’s own people conspired with the Romans to put Him to death?  This is just feel good PC nonsense and unscriptural.,1,0.5,General,"LR, SVM, DistilBERT, BERT, HateBERT",0,0,0,0,0
+767897,"except that Israel is not 100 per cent Jewish - so having ""their own state"" doesn't make sense here - unless you mean treating those non jews who live in their state as second class citizens
+
+Israe  can either be jewish or it can be democratic - it cannot be both",0,0.0,General,SVM,0,1,0,0,0
+846068,"Your use of all-caps is so cute. I suppose my post deriding you disappeared all by itself.
+You backed a loser, but that is understandable.",1,0.5,General,SVM,1,0,1,1,1
+664062,"""Nonsense"" right back at you.  And your memory may not be serving you ... perhaps you should ""ponder"" some more.
+
+Edith Stein was most certainly Jewish - but she died professing her Catholic faith...as did her sister.  Other Catholics were killed in Auschwitz, too, you know. The Nazis hated many people, not just Jews.
+
+Another interesting article you may prefer?  http://www.americamagazine.org/content/all-things/edith-stein",0,0.4,General,"LR, SVM",1,1,0,0,0
+5055082,I'd say it's Trump's head that is currently exploding...,1,0.5,General,"DistilBERT, BERT, HateBERT",1,1,0,0,0
+538397,"Not to matter. Pot can't call any kettle black, no more, no more.",0,0.0,General,"LR, SVM",1,1,0,0,0
+423488,"According to Obama (you know, Mr. Inclusiveness himself) that would probably be ""those who cling to their guns and bible"".  Sure wouldn't want to leave it to the First Amendment people, those would be the ones that have made character assassination the standard every republican presidential nominee has had to endure in my lifetime.  You know, Reagan-going to get us in a nuclear war; Dole-to old and cranky; Bush-too dumb and a draft dodger; Romney-rich elitist that wants to push grandma off a cliff and tied a dog to his car roof.  As David Axelrod said: Kill Romney.  Yeah, that's the party of civility.",1,0.5,General,"DistilBERT, BERT",1,1,0,0,1
+464646,"Oh, look at the smart guy making assumptions about peoples intelligence because they asked for facts to back up a claim. Also, your brilliant google stat (No source, I noticed) says ""contributed."" 
+
+So does that mean they were also drunk, on coke, or meth? I'm guessing it does. What say you, professor? Or, what say Google I should say. Does it still mean weed causes accidents if you're also drunk over the legal limit? Or should we just blame all of that on marijuana anyway? 
+
+If *you* actually do more research you may find that it's hard to measure what the effects are of weed on driving because it is being done in conjunction with other substances. It's also difficult to test and determine an exact level of impairment. Further, you may not have smoked in a week, yet a drug test will come back positive because of how long it stays in your system. So you could be completely sober and test positive for marijuana. (I can be a jerk on the internet too. It's fun!)",0,0.1666666666666666,General,"LR, SVM",1,1,0,0,0
+5166760,"Lamont, the fed contribute 1:1, there has never been contributions at high multiples. Why make these statements you know are untrue?
+80% of pensions come from investment returns, as a quick read of any independently auditted DB plan will show you. Contributing $9k for 35 yrs= 315k, 5 times this is 1.5mill which is plenty for a $40k pension.
+Posting fake numbers fools nobody - except you",0,0.1666666666666666,General,LR,1,0,0,0,0
+5284246,"Regarding Canada (Ontario) what about having a criminal investigation on Dalton, Wynne and the OPP that protect this corrupt regime.
+Nope, lets complain about American leaders. More fake news from the elite!",0,0.0,General,"LR, SVM",1,1,0,0,0
+5928428,"Do some research. The DACA recipients are already crying about their parents. DACA is the ""foot in the door"". If you think this amnesty deal is the end of it you are mistaken. Copying and pasting that people are spreading lies is silly. Bring some evidence to the table.",0,0.0,General,"LR, SVM",1,1,0,0,0
+5854607,"So Eskom has a budget for huge bonuses but not for overtime.... I know if I worked there I would rather earn some regular overtime than hope to get a small part of the ""bonus"" after the fat cats have stolen the cream. But I don't suppose the fat cat management gives a damn about what would be preferred by, or even more motivating of the poor saps that actually work there.",0,0.1666666666666666,General,"LR, SVM",1,1,0,0,0
+5725568,"""Did you just Google that?""  A comment that could just as easily have been made to a man and has been.
+
+""You don't have kids and are not even married"" I am struggling with this one. If anybody had made a statement like that to an employee in any organisation that I have been involved with there would have been serious consequences.
+
+""stuff it up and sink the office"" This is often said of men. The biggest challenge for a newly promoted person is to get their peers who were competition on side. About 25 years ago I heard of a comment around promotion time ""No balls no brains"" and the guy who made it didn't last very long at all.  
+
+The younger person is usually the one who pours the coffee. 
+
+""I think of you as my daughter"" Never heard that one before.
+
+""Proposals in meetings"" Obviously never seen the way that guys sometimes stab each other in the back.
+
+""You should smile more"" I have undoubtedly been called a miserable git by my staff. It's tough supporting The Kings.",1,0.6,General,"DistilBERT, BERT, HateBERT",1,1,0,0,0
+6011503,"Tough if you were offended. According to you clowns it's his First Amendment right, just like taking a knee during the Anthem.
+Just because you're offended doesn't mean you're right.",0,0.3,General,"LR, SVM, DistilBERT, BERT, HateBERT",1,1,1,1,1
+432375,"What's incredible is this young man is asked to leave because of his inappropriate language,  then claims racism, then call the security guard a cracker. Sorry young man you are the racist.  
+Violent lerycs wasent tolerated. Clean it up.",0,0.4,General,"LR, SVM, DistilBERT",1,1,1,0,0
+5609556,"The Muslim community widely denounced the 9/11 attacks. They widely condemn all Muslim violence, while 99.99% of Muslims are peaceful, as peaceful as Christians.",0,0.0,General,"LR, SVM",1,1,0,0,0
+402696,"There's that ""Real Alaskan"" all the wags talk about.",1,0.5,General,"LR, SVM, DistilBERT, BERT, HateBERT",0,0,0,0,0
+853091,"One of the scariest aspects of Trump is the fact that he has no depth outside the world of real estate. He has no education, skill or experience in virtually all of the aspects of the President's job. He shoots off his mouth like a petulant child without thinking about the consequences. He has advisers but I expect him to only pay attention to what they say when they back him up. Scary man in important times.",0,0.0,General,"LR, SVM",1,1,0,0,0
+5089881,"Good grief, couldnt they of choose a mall or gas station bathroom? Both are warmer choices. Just a thought for a thoughless animal abuser.",0,0.0,General,SVM,0,1,0,0,0
+5664263,"Transgenders have served in every military since forever.
+
+I know it's hard to grasp, but transgender, like gay, like so many issues and realities 
+are NOT something just recently thought up by liberals to annoy y'all.",0,0.4,General,"LR, SVM",1,1,0,0,0
+5857327,BOA is a farce...,0,0.0,General,"LR, SVM",1,1,0,0,0
+5968349,"Do you blame them? To be considered "" intrinsically disordered""  and not welcomed in church?
+Why would you bother?
+I have several gay friends who are not wealthy and have left the church because they were not welcomed They have moved on to other denominations that welcomes all people.
+That the Catholic Church does not, to me, is a very sad thing.",0,0.2,General,"LR, SVM",1,1,0,0,0
+6050953,"Talks cheap! I based my opinions on actions, and right now their actions are disgusting and disrespectful. If someone is kicking my dog, while saying he loves dogs, I have tendency not to believe him.",0,0.3,General,"LR, SVM",1,1,0,0,0
+5703496,"The ""endangers wildlife"" lie would have more legs if 99% of Alaskans didn't love killing it off as often as they are allowed to do so.",0,0.0,General,"LR, SVM",1,1,0,0,0
+5356235,"Bluntly, the folks who run land use are in denial as to what the value of this and other land becomes when actual ruling law is operational. The rulers cannot fathom giving up any of their power despite the actual ruling law, federal law, increases benefits for everyone - floats all canoes. The rulers are ignorant of reality and prefer to depend on their own arbitrary, self interest biases because that's the way we always have done it so why change now, just because some silly court in far away Washington ruled otherwise. It won't be long before that silly new administration will be gone and we can just get on with business as usual. Mickey Mouse where are you?",0,0.0,General,"LR, SVM",1,1,0,0,0
+864806,"Why are you sharing their bathroom?  And why are you so fixated on sex?  Do need more or less? What is the problem? Whatever it is, fix it. JFC.",0,0.3,General,SVM,0,1,0,0,0
+999205,You might feel differently if a drunk driver killed or maimed a member of your family.,1,1.0,General,"LR, DistilBERT, BERT, HateBERT",0,1,0,0,0
+6038347,"Thatcher writes:
+
+""What exactly is the correct term for hired mercenaries shooting 100 people""
+
+--
+
+It would be ""Russian Spetsnatz executing Putin's orders"".
+
+Thanks for asking.
+
+As for Yanukovych, he didn't flee the country after a coup, he skipped to his Moscow dacha when he was indicted by the Ukrainian parliament for mass murder.
+
+He was never deposed in any coup, and he could have run again for the Presidency in the next election, well, except for that darn mass murder indictment.
+
+And then there was also the minor issue of his emptying the national treasury as he fled to Moscow.
+
+What was Putin's share of the loot?",0,0.4,General,"LR, SVM",1,1,0,0,0
+629955,Lets chat about the klinton lies shall we. How much time you got?,1,0.5,General,"LR, SVM, DistilBERT, BERT, HateBERT",0,0,0,0,0
+5369040,"I thought I was being clever with ""reigns"".  It's like a double entendre.  Because he will be reigning in America soon.  And of course you disagree w/me.  But you did get it, he built the table and he invites the players. And he will make the rules that benefit America and hurts our enemies.  But I don't think you understand who we are at war with.  Or at least that there is a terrorist faction that is at war with us.  Stop playing ""gotcha"" and get with the program.  If other democratic leaders are going to treat us with disdain, then we are lucky are president treats THEM with disdain.  Rather than bow down to them (literally) like Obama did and shame  America.  Or give up our Uranium to Death to America Iran and Jets and tanks to the Muslim Brotherhood.  Who do you think they intend to kill?  Our enemies?",0,0.3,General,"LR, SVM",1,1,0,0,0
+943816,"Mexico is a violent mess of a state, where the vast majority of people live in unrelenting poverty as a result of their country being controlled, forever it seems, on the whole, by a corrupt narco-financed political oligarchy.  Reformers, who wish to change the system, starting locally at the grassroots, are usually assassinated. So to be lectured by the likes of present Mexican politicians, or former ones, such as Fox, on the need for us to engage in a “creation of opportunities”, is like being told by a successful unrepentant bank robber, that you should be opening more banks in his neighbourhood. For regular updates on the mess that is Mexico see: http://www.borderlandbeat.com/",0,0.4,General,"LR, SVM",1,1,0,0,0
+6042196,Trumps admin is just as swampy as ever...,1,0.5,General,"LR, SVM, DistilBERT, BERT",0,0,0,0,1
+6197117,"""You, like other liberals, want to cloudy this issue by offering scenarios that either won't happen (pagan schools) or that you think will prove that Christians can't read the Constitution.""
+.
+By the standard definition, there are hundreds of pagan schools in the US. Claiming that they are a scenarios that ""won't happen"" is simply nonsense.",1,0.5,General,"LR, SVM, DistilBERT, BERT, HateBERT",0,0,0,0,0
+6286696,It amazes me too. The sheer ignorance of trying to portray one of the most heinous genocidal events and most severe suffering in the history of the human race as a victory for gender equality - where does one even begin?,0,0.2,General,"LR, SVM",1,1,0,0,0
+5941865,"I moved from the Rock (Kodiak) to Skankerage in 1975 and spent a memorable year there before moving to the Mad Zoo and become (proudly) Valley Trash. Yup, Skankerage is getting to be like it was in the Pipeline Days. To blame all this mayhem on the current or former mayor or the ""Libs"" or the ""Cons"" is to ignore the personal responsibility of the druggies and other lowlife that commit these acts.
+
+ I blame them.
+
+ And don't get me started on the **** that goes on in the Valley ...",0,0.0,General,"LR, SVM",1,1,0,0,0
+5488396,"I think that it hasn't been discussed enough that the young starters are carrying too much of a load. They have been very good, but when you hit a rough spot, you need to rely on your veterans, Chatwood, Otavinio?, Dunn, Lyles, Oberg, Cargo, have all failed miserably. How much added pressure is there for a rookie to not only help the team win, but now you have to be the stopper because your vets stink?",1,0.6,General,"LR, SVM, DistilBERT, BERT, HateBERT",0,0,0,0,0
+5273430,"That's a darned short sentence for someone with a long history of drunk driving who spits in the face of the law by continuing to drive after losing his license. He has numerous citations for driving while suspended and has simply shown complete and total disregard for anything but himself, with deadly consequences.
+
+I'm having trouble seeing any humanity in this pile of dirt. Sadly, his behavior isn't all that far away from that of too many of our car-dependent fellow citizens who can't be bothered to put away their vibrating toys while driving and refuse to follow even the simplest of laws. It is those citizens who are the reason we don't have laws on the books to deal with people like this, because far too many motorists know that they are regularly taking dangerous risks with the lives of other people, so their sympathies lie with the scofflaws, not their innocent victims.",0,0.2,General,"LR, SVM",1,1,0,0,0
+5098709,"The Ontario Energy Board hearings have become a sham under the current chair, Rosemarie Le Clair. She was and still is a personal friend of Dalton McGuinty and has stacked the Board with her pals from Ottawa. The OEB proceedings have become a rubber stamp of Liberal government decisions. The OEB should be completely reformed or it should be abolished.",0,0.0,General,SVM,0,1,0,0,0
+519928,She has threatened and intimidated women who were raped by Bill to keep their mouths shut. Don't call something a lie when it's a known fact.,1,0.8,General,"DistilBERT, BERT, HateBERT",1,1,0,0,0
+6045273,"What a guy, gets caught stealing it so he offers to give it back, probably come from the tax cut he's about to get, like I said what a stand up guy.",0,0.0,General,"LR, SVM",1,1,0,0,0
+880697,There was a large white Supremacist and neo Nazi contingent in the Trump ranks...ignoring the fact won't make it go away.,0,0.2,General,"LR, SVM",1,1,0,0,0
+5010274,"Indians pay the same taxes except, except, except, etc.🤗",0,0.0,General,SVM,0,1,0,0,0
+451842,"Fortunately not everyone keeps his/her brain in a little box of ""associations"" allowing such facile and simplistic characterizations.  Which means that posted rhetoric full of such narrow, television-induced categorizations merits no serious consideration.  Sorry for the big words.  Wow, indeed...",0,0.0,General,"LR, SVM",1,1,0,0,0
+6181607,"In a totalitarian system, the government knows everything about its citizens. In particular it knows who you are and where you are at all times. Anonymity is eliminated with extreme prejudice, because a threat to the system could lie behind the veil.
+
+In Canada, your public identity is yours to conceal or reveal as you choose. This tradition comes to us via centuries of British common law. It's what differentiates us from authoritarian governments. Unlike some unlucky countries, in Canada we don't strip away the individual's ability to remain hidden. Instead we empower the individual. She doesn't have to reveal her identity in public except under clearly defined and concrete circumstances. 
+
+It shocks me to see the number of Canadians who actually embrace the totalitarian concept- all the while hiding behind an anonymous comment.",0,0.0,General,SVM,0,1,0,0,0
+6248515,"I see the Hon SA scrubbed my post on President Trump visiting the DOH next Friday to ask for *****'s fake birth certificate.
+
+LOL!!   
+CLASSIC!",1,0.5,General,"LR, SVM, DistilBERT, BERT, HateBERT",0,0,0,0,0
+469120,Was English grammar a prerequisite for studying the human brain?,0,0.0,General,"LR, SVM",1,1,0,0,0
+438461,...characterizing a policy from a state government that's $4B in the hole as 'fiscally conservative' is laughable.,1,0.5,General,"DistilBERT, BERT, HateBERT",1,1,0,0,0
+6144592,"Please, please keep protesting guys!  Between your ingratitude for the overpaid, overworshipped lifestyle you lead, your incredible arrogance and the ridiculously overpriced nature of all things NFL, you are hastening the inevitable.
+
+I figured out a long time ago I could live just fine without you.  Now the rest of America is getting it too.  Let's see how anxious you are to protest when you have to get REAL jobs like the rest of us.",0,0.4,General,"LR, SVM",1,1,0,0,0
+5519708,"Don't Tase me bro has become so quaint...
+
+American Police need to take lessons from London Bobbies who use creative improvised solutions when dealing with knife or sword wielding suspects.  But then this is America, our police don't de-escalate, they get scared and kill the scary enemy.",0,0.1666666666666666,General,"LR, SVM",1,1,0,0,0
+6211020,"Yet again, black blindness.  They refuse to recognise the colossal, exponential increase in the black population of Cape Town. When I first arrived there,  in 1976,  only Gugs and Nyanga existed as black townships, and there was a tiny population of about 1000 blacks.   Cape Town's population was mainly white and coloured   In the months before the first free elections,  the ANC were bussing in between 20 and 30, thousand blacks a month, from the Eastern Cape.  Go check.  And the increase in black numbers  has never stopped since.  So, how is any city expected to cope with such a colossal increase.  The drought is not just because of the lack of rain.  It has been caused by the huge increase in the city's numbers.",1,0.6,General,"DistilBERT, BERT, HateBERT",1,1,0,0,0
+952216,"""Feminists"" think you can't criticize a woman without it being about her gender, but only if it's a lefty woman. So transparent and everyone knows it.",0,0.4,General,"LR, SVM",1,1,0,0,0
+545260,Harper was Hell and he probably did pull these stunts. The Globe gave Harper a free ride for almost ten years.,0,0.0,General,LR,1,0,0,0,0
+832322,That hugging is creepy.,0,0.1666666666666666,General,"LR, SVM",1,1,0,0,0
+5192672,"Your claim is rubbish.
+
+The largest employer in Canada is Loblaws. It has three times the active workforce that the CAF has. Another 15 companies in Canada have workforces as large as the CAF. Those companies do not, in any way shape or form, tolerate sexual offences. Yet last year alone, the CAF had 223 reported cases of CRIMINAL sexual offences, over and above the kind of sexual misconduct that would merely get you fired from a private firm.
+
+Big or small, any company in Canada that was experiencing sexual misconduct at the level the CAF tolerates would be put out of business. Your unwillingness to face up to the truth compounds the dishonour that this problem brings to the CAF.",1,0.5,General,"BERT, HateBERT",1,1,1,0,0
+5697881,"he is a 'positively' brutal president?  There, something positive.",0,0.4,General,SVM,0,1,0,0,0
+6203805,"I don't understand how Donald Trump is the subject of unremitting criticism by Democrats for his spray tan and his comb-over, and then they trot out this rodeo clown to combat him.  Seriously?  Who has that many matching blouse/cowboy hat sets?",0,0.0,General,"LR, SVM, DistilBERT, BERT, HateBERT",1,1,1,1,1
+6122222,"You are a tax cheat too. Go get him, Bill.",0,0.1666666666666666,General,LR,1,0,0,0,0
+6075172,"Caleb Keeter, lead guitarist for the Josh Abbot Band: ""I’ve been a proponent of the 2nd amendment my entire life. Until the events of last night. I cannot express how wrong I was. We actually have members of our crew with CHL's, and legal firearms on the bus, They were useless.We couldn’t touch them for fear police might think we were part of the massacre and shoot us. A small group (or one man) laid waste to a city with dedicated, fearless police officers desperately trying to help, because of access to an insane amount of fire power."" Powerful stuff.",0,0.4,General,"LR, SVM",1,1,0,0,0
+861851,"Grampa it's not the 1980's anymore. In 2017 Canada doesn't make anything anymore that cannot be made elsewhere in the world with better quality and more inexpensively. In addition courtesy of the CIA/NSA and any corrupt Canadian politicians, Team Trump knows Trudeau's bargaining ploys in advance.  Canada has nothing to bargain with and will be slaughtered.",0,0.2,General,SVM,0,1,0,0,0
+472236,"Actually that's computer code for a keystroke, most likely the foward slash key option. Just a coding error most likely and it shouldn't make you lose any sleep over it. Let's test my theory though.... Next I'll type a foward slash / then I'll type a backwards slash \ and now I'll type the code for the return function on the keyboard <br>. If the period I typed at the end of the last sentence is below the actual sentence then the code worked as programmed. If the glitch is still affecting keystrokes then my foward and back slashes should look like the ""amp"" garble. 
+
+On a side note, I say send there ass back to their country if they really are a refugee. That or let them got for a walkabout in our fine backcountry...say 50 miles from the nearest inhabited space...and we'll see if they cause any more trouble for ""society"".",0,0.2,General,"LR, SVM",1,1,0,0,0
+6125481,"Well it took State Senate candidate Jackson only 5 paragraphs to get to favorite epithets of the left:  discrimination, bigoted and disingenuous.  Well done.  Let's talk about discrimination a bit.
+
+Today the left embraces, celebrates and demands discrimination at every turn.  Ask any smoker 50' away from a building entrance.  Ask any Christian who refuses service to a same sex couple.  Ask any white man, woman, or oriental denied equal access to jobs or education based on nothing more than the color of their skin.
+
+Sexual identity is set at the cellular level.  Calling yourself anything other than whatever your chromosomes are wired to do is just as effective as calling yourself a turnip.  No amount of surgical mutilation or hormone therapy will change that.  The problem with all this foolishness is that it is being brought into the public schools and universities.  
+
+While Anchorage doesn't enforce this with a heavy hand yet, it is only a matter of time.  Cheers -",0,0.3,General,"LR, SVM",1,1,0,0,0
+5294011,"In this case, if you are not white, apparently you can't be European.
+---
+RACIST comment
+-
+the Mayor of London is not white
+explain that
+--
+look at the national soccer teams of UK, France, Germany, Portugal, Netherlands ...
+so you see ALL White?",0,0.4,General,"LR, SVM",1,1,0,0,0
+5496326,"Quebec has become as mundane and dull as Oilberta.
+
+Yea !",0,0.1666666666666666,General,SVM,0,1,0,0,0
+735449,"Because we can't have too many cops serving and protecting us! And dump trucks, too! That's how we create a truly civilized society! Beat those pesky terrorists at their own game!!!",0,0.1666666666666666,General,"LR, SVM, DistilBERT",1,1,1,0,0
+744687,"""Germany has been killing Muslims since 9/11.""
+
+Um, what?",0,0.4375,General,"LR, SVM, DistilBERT, BERT, HateBERT",1,1,1,1,1
+5785098,"Trump was right for saying there was blame on both sides.  To say otherwise is a denial of reality.  As despicable as neo-Nazi and white supremacy groups are, the group that rallied in Charlottesville had a permit from the city to do so.  They went there to exercise their free speech rights under the Constitution.   The counter-protesters who gathered in Charlottesville did not have a permit but went anyway and brought with them baseball bats, clubs and improvised flame throwers for one reason only and that was to engage in fights with the protesters.  They also were a despicable lot consisting of many racists and black separatists.  We will never know who threw the first punch to start the battle that erupted, but it is wrong to blame the white supremacist only as our congressional delegation is doing because they were the more despicable of the two groups.",0,0.1666666666666666,General,"LR, SVM",1,1,0,0,0
+580746,Americans are so dumbed down that half of them don't even understand what's going on.,1,0.55,General,"LR, SVM",0,0,1,1,1
+392304,"Feckin' I.D.I.O.T. humans.
+Can't we just stick to gratuitously murdering ourselves and others of our species?
+No, apparently not. We're so good at it.
+No wonder we're on our way out.
+A big difference between hunting for food legally and this senseless herd behavior.
+Certain characteristics of a mob going to a lynching. I hope the kiddies got a good view!
+Very educational.",1,0.59375,General,"LR, SVM, DistilBERT, BERT, HateBERT",0,0,0,0,0
+6028268,If it's not about race then why are so many black players protesting?,0,0.2,General,"LR, SVM",1,1,0,0,0
+6096780,"Interesting. Thanks Neko. 
+On the other hand, one could construe the stereotype as a compliment rather than ""homophobic trash,"" no? (BTW, I confess to buying into the stereotype without much thought.) 
+
+On the other hand, a proper dismissal of the stereotype would require not just a long list of straight designers, but the examination of a truly random sample of designers. I'm not trying to defend the stereotype, Neko, just confessing my inclination, and pondering your objection.",0,0.2,General,SVM,0,1,0,0,0
+469690,"At what cost to us... liberty, life, stealing our wealth through tax system that IS SLAVERY however thinly veiled to use against us and kill others with.  No more WAR.  No more Big Bloated Gov.  No more fossil Fuels.  No More failed Education systems. No more failed voting systems. No more 'legalized' home thefts.  No more Lying.  And actually folks we are closer to a black budget of 8 TRILLION.  Unaccountable. Here is link to an article. http://www.reuters.com/investigates/pentagon/#article/part2      and 54% of ALL taxes paid directly to military.  Does this sound like job stimulous or creation?  We let our 'elected leaders' up here, tell us that, as they screw us every time.  F-35's.  Missile defense.  and a Billion here and there because.  And the propagandist like the rag this article came from continues to publish 'reporting by actors' instead of independent investigative journalists like Greg Palast or Glenn Greenwald ..... know who they are?  IWW!  Solidarity!",0,0.0,General,"LR, SVM",1,1,0,0,0
+1046222,"""Ali Jr., 44, who confirmed his Muslim faith, was detained about two hours, despite telling officials that he’s Ali’s son and a native-born U.S. citizen, Mancini said.""
+
+Being ""Ali's son"" is nothing special.
+And there have been native-born, U.S. citizens, of muslim faith, who have committed terrorism on U.S. soil. They are categorized as ""Home-Grown Terrorist"".
+
+Feds are were just doing their job.",0,0.1666666666666666,General,"LR, SVM",1,1,0,0,0
+6320110,"I don't know.  We've lived with a very real threat of a nuclear explosion in the US via Russia, Pakistan,  China for a long time. 
+
+I understand looking at US casaulties, but:   In the Cuban crisis, the possible lost of Cuban lives was taken seriously by JFK both for loss of life and just as much for the image it would embed on the world of the US sqaushing a far inferior opponent.
+
+If we start a war, millions ofKorean lives will be lost.   If you believe we are all God's creation.............
+
+The statement of Lindsey Graham was in poor taste and showed a lack of concern for human life.    It's also the same damn thing we heard about Vietnam and every other conflict were we have occupied another nation- better over there, than over here.   
+
+That kind of crap is just prewar propaganda to dehumanize those we are about to kill, and desenstize our own troops to the reality of war and violent death.
+
+IMO",1,0.5,General,"DistilBERT, BERT, HateBERT",1,1,0,0,0
+945820,"How can you say ""all lives matter"" when facts prove otherwise . He's getting charged with man slaughter while those white kids got slapped on the wrist . If all lives matter, slap him on his wrist too . If not, then there will be an outrage in anchorage. Samoans ain't to mess with . If they feel like the Alaska state system is unfair and allows white privilege, they will speak their mind and will do anything to get there word across . This kid is known in the Samoan community, has a whole future ahead of him and everybody knows . Keep your head up Tosi !",0,0.4,General,LR,1,0,0,0,0
+311131,"With leadership like Al Sharpen and Jesse Jackson it is hard to take them seriously. Blacks and Native American,s and thousands of white debtor slave's were used in America for a few hundred years. Before slaves in America whites browns and olive skinned by the millions were held in slavery for thousands of years. So who had it worse? Blacks in America for a few hundred years or all colors of people held as slaves for thousands of years?",0,0.2,General,"LR, SVM",1,1,0,0,0
+5087180,"907AK, sun rises, sun set.....I don't see you in Washington DC fighting this thing. So talk is cheap. All I am saying is if you don't fight it, then enforcement of such laws will be inevitable and hiding your head deep into the sands.....won't change a darn thing.",0,0.1666666666666666,General,"LR, SVM",1,1,0,0,0
+5168372,I agree the schools are pushing garbage for the most part. Where however in the west are those with opposing opinions being severely punished?  Its been a long time since I was in school but they were still pushing the multi cultural garbage and I was opposed them with no punishment. My son who will be in high school next year shares the same sentiment for the most part with no punishment also.,1,0.6,General,"DistilBERT, BERT, HateBERT",1,1,0,0,0
+6052764,"Tell that to Paul Ryan:
+
+Last year, when Trump said that a federal judge of Mexican descent had ruled against him because he is “Mexican,” House Speaker Paul Ryan (R-Wis.) said the comment constituted “the textbook definition of a racist comment.” 
+
+That's just a sample but it should suffice to contradict your ""no evidence"" claim.",0,0.0,General,LR,1,0,0,0,0
+6081731,"""weapons of mass casualty"" is not a real word.  It's used by those like ""silencer"" Hilary and ""Shotgun"" Joe Biden to scare and harass to push an illegal agenda.
+.
+The FBI’s 2015 Uniform Crime Report (UCR) shows nearly three times more people were stabbed or hacked to death than were killed with assault rifles and shotguns (a.k.a., the guns used in mass shootings) combined:
+.
+https://ucr.fbi.gov/crime-in-the-u.s/2015/crime-in-the-u.s.-2015/tables/table-20
+.
+This UCR also shows that nearly twice as many people were beaten to death with “hands, fists, feet, etc.” in 2015 than were killed with rifles of ANY kind.
+.
+WHY do you ""feel the need"" to own hammers and knives?",0,0.1666666666666666,General,SVM,0,1,0,0,0
+6190823,The fact that the citizens of Ontario have not tarred and feathered Wynne shows what restraint Ontarian's have.  She is worthy of criticism based on her extremely incompetent performance and mismanagement of our province.  Her attempts to silence her critics are silly and petty.  Ontario and it's people have been very patient and extremely tolerant of her incompetence.,1,0.6,A,"DistilBERT, BERT",1,1,0,0,1
+6006683,the american way . . . death.,1,0.6,A,"LR, SVM, DistilBERT, BERT",0,0,0,0,1
+5054469,A hangman's noose attached to a tree limb and a stool? Mo beddah solution. Help them end their miserable unending bad luck.,1,0.6,A,BERT,1,1,1,0,1
+339166,"You think ""every teacher and admin in Alaska"" owes oil??   Good lord!  No wonder its hard to get an American voice in Alaska anymore - we're all already owned!!!  I think jesus said it best when she said ""blessed are those owned like us...   but f<orget> the rest!!!"". .
+
+I bet she totally meant those darn natives too..  except for the inlaws not owned by oil payments, obviousley..
+
+by the way, i thought reinbold was, literally, married to oil, no?  its easy to be 'independent' when your spouse makes over a hundred thousand dollars per year, isnt it?",1,0.5,A,"LR, SVM, BERT",0,0,1,0,1
+694757,maybe they just found the two valley trash murderers we've been looking for?,1,0.6,A,BERT,1,1,1,0,1
+5808858,"Uh, Nick, it's the loony, fascist right that is labelling their hate as ""free speech.""",1,0.5875,A,"DistilBERT, BERT",1,1,0,0,1
+5426154,They still have major problems in the bullpen. Three good bullpen pitchers will not cut it. Time to send the losers packing and bring up some new blood.,1,0.6,A,"DistilBERT, BERT",1,1,0,0,1
+6069061,the terrorists continue to be alienated white male citizens hon..not well-vetted immigrants or refugees.  Get a clue.,1,0.7,A,BERT,1,1,1,0,1
+943926,"It is the perfect word to describe many men today.
+
+After 30 years of uber feminism we have now emasculated many men and boys.
+
+Anyone notice that men are not very attracted to wanting relationships with western women these days..?
+
+Never mind actual committing marriage-suicide so that a man can get divorce-raped in our lovely society and family court, with such feminine creatures.../s
+
+Young men, TRAVEL
+
+Travel to countries and meet some real, feminine women.
+
+You will never be able to settle for one of these entitled spoiled women
+
+And you won't become a CUCK",1,0.6,A,"DistilBERT, BERT",1,1,0,0,1
+797902,"If they aren't caught, I hope the one he bit gets gangrene.",1,0.7,A,"LR, SVM, DistilBERT, BERT",0,0,0,0,1
+5750484,I guess this is why Wyoming loses population every year. It's a ****hole.,1,0.8,A,"LR, SVM, DistilBERT, BERT",0,0,0,0,1
+5372308,"it's another example of right wing hypocrisy, piously claim reverence for the unborn and ignore the child. gotta love it!",1,0.6,A,"DistilBERT, BERT",1,1,0,0,1
+6251123,"Spacey ignored the pedophilia part. Interesting.
+
+I'm going to guess Spacey was homosexually molested as a child as well, considering his nonchalant attitude.",1,0.5,A,"LR, DistilBERT, BERT",0,1,0,0,1
+627223,"Marna Broekhoff doesn't need to move anywhere. She should stay right here and use her free speech rights to denounce those in government like Donald Trump, George Bush and Dick Cheney who obtained deferments through their connections to avoid the draft. These people consider the poor and working class people who get drafted as dispensable people.
+Joe Pingleton suggests that Ms. Broekhoff has no right to live in the US if she doesn't agree with having a president who is an unprosecuted sexual criminal, a president who inspires neo-Nazis and white supremacists.
+Veterans like my uncle who was drafted and died in Vietnam denounced that war as unjust in almost every letter he wrote. Maybe Pingleton thinks my uncle doesn't deserve to have his name inscribed on the wall in Washington D.C.. At the same time, who really cares what false patriots who support fascists like Trump think? I know I don't.",1,0.5,A,"DistilBERT, BERT",1,1,0,0,1
+6270109,"Brison practises deviant sex
+His wife is not a she
+It is another deviant",1,0.6842105263157895,A,"DistilBERT, BERT",1,1,0,0,1
+5517349,"Yeah, and the WH didn't blackmail Joe and Mika either. I mean, if you believe this lying dumpster fire of a ""president"".",1,1.0,A,BERT,1,1,1,0,1
+6282849,"""Woman does not possess the image of God in herself ..."" St Augustine, bishop of Hippo (354-430) .
+""So men possess the image of Devil in his devilish act of raping children? "" YJIN117, (2017)
+ROFLOL!!!!!!!!!!!!!!!!!!!!!!!!!,  The whole world are LOL!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",1,0.5945945945945946,A,BERT,1,1,1,0,1
+5555799,"I know this comment wont survive the time it took to write it, but both Khadr and Trudeau should be hung from both sides of the same rope.",1,0.7,A,"LR, SVM, DistilBERT, BERT",0,0,0,0,1
+548057,No Larry you are the one who is showcasing their ignorance. You have absolutely no understanding of what actually happened in the Ukraine which makes you look silly. The reason that Trump has called out the left for election fraud in advance of the election is because they have been caught red-handed committing election fraud in advance of the election. Don't you remember that it was Hillary Clinton who committed election fraud when she stole the nomination from Bernie Sanders? Haven't you seen any of the 21 days of James O'Keefe's election fraud videos where the top brass in the DNC Brag and plot and scheme and conspire to steal the election? Putin hasn't been trying to destabilize the West he is trying to get the West to stop sponsoring and underwriting coups in neighboring Ukraine. Read the WikiLeaks the only person with close ties to Russia is Hillary,1,0.6,A,BERT,1,1,1,0,1
+5117919,"Look at all the Russian bots and trolls, proving the point day by day that Russia cannot be trusted
+
+If you guys were smart you'd lie low for awhile.  Not smart.",1,0.6,A,"DistilBERT, BERT",1,1,0,0,1
+5412199,"There are states that require NO permit OR training.  I work in one of them.  That's what I was referring to.
+
+Here's an example of one of those folks that is allowed to carry a concealed weapon with no training, and, of course, is automatically a law-abiding citizen (like we are always assured they are by folks like you).  You'll notice that, besides his stupidity, he was also not following the law:
+
+http://www.kansas.com/news/local/article77782117.html
+
+I suppose that this newspaper from a state that had all of 2 counties carried by HRC is a ""liberal rag"" or a spreader of ""fake news"".
+
+People like this idiot shouldn't be allowed to carry a concealed weapon anymore.    
+
+I'm not anti-gun.......I'm anti-stupid.  Go bug someone that's actually anti-gun.",1,0.8,A,BERT,1,1,1,0,1
+846241,The only balls Donald has are Inaugural.,1,0.7,A,"DistilBERT, BERT",1,1,0,0,1
+5756053,Am I the only one taken aback by the left's inability to demonstrate basic reading comprehension?  Did you completely ignore the asinine comment that I responded to?,1,0.8333333333333333,A,"DistilBERT, BERT",1,1,0,0,1
+5852977,"Yup Spectrum is showing their true colors.  Mainland attitude, dirty player.",1,0.5,A,"DistilBERT, BERT",1,1,0,0,1
+5053206,"This guy will end up killing himself.  He has shriveled down to bones during this trial, obviously trying to handle tons of stress. He looks like he has AIDS.",1,0.5,A,"LR, SVM, DistilBERT, BERT",0,0,0,0,1
+5152589,"aa the lib troll of nonsense, see bud, harris came in with a 10 bill deficit which was added to with billions in transfer cuts downloading from ottawa liberals and managed to balance the books for 4 years and as a result the economy boomed with over 800,000 NET private sector jobs created in Ontario! , he was a god send now as to your 42 bill added, lets compare since being handed 10 bill from rae in deficit should harris of fired say 100,000 public people to guarantee no dept from day one or was it better as he did to work it down until balanced? answer that lib troll !! see you libs have added what 160 billion and still climbing so i guess you should be screaming at datlon and wynne then for that added debt right? answer that as well coward!",1,0.7,A,"DistilBERT, BERT",1,1,0,0,1
+5116607,"What's this garbage about ""plain packaging""?  Marijuana is usually sold/dispensed in  see-through plastic bags.  Lately the dealers and dispensers have been writing the name of the strain or variety on the bag with a felt-tipped pen.  That should be plain enough for anybody.",1,0.7,A,"DistilBERT, BERT",1,1,0,0,1
+433804,I loved Alex I played with him when we where kids he was my best friend  he slwsyz reminded me of the young innocent boy I use to play with n ride bikes with I miss him his mom is a wonderful women n I hope she can find peace rip I love u Alex be happy where u r I miss u n I'm just glad u r free from ur addiction I wish there could have been another way its so safe what the crap does to people so young plx stop the crsp there is no reason to takey a life especially someone so young he never even got to live no college no chance to have a family of his own i miss him n I want to cry every time I think about him rip in peace my loving best friend alex be safe up there.,1,0.7,A,"LR, SVM, DistilBERT, BERT",0,0,0,0,1
+5248990,"""Damnit, Sister, I didn't know you were a nun when I stopped you for driving through a red light. I'm not supposed to ticket nuns!"" I guess there was a benefit for nuns in cars as well as for the City of Chicago, about which nuns chuckled that their habit's hems swept the sidewalks. Most habits are gone but sisters continue to minister in many places and many ways--with their law degrees, education degrees, science degrees, medical degrees, and much more. Women became religious wanted to serve; they did but also were required to live in a monastic-style existence and were hence at the edge of the laity's consciousness. Nowadays, sisters are JPFs---just plain folk--and free to intereact wherever and however, without worrying if the street is being swept by the hems of their skirts.",1,0.7,A,"LR, SVM, DistilBERT, BERT",0,0,0,0,1
+5384976,"Did you read the recent ADN story about the local nutcase who shot himself through the brain, only to have the bullet pass through his head and kill his girlfriend who was trying to stop him?
+
+Apparently not.
+
+He apparently will be prosecuted for her death.",1,0.5,A,"DistilBERT, BERT",1,1,0,0,1
+5777977,"You and your friends are atypical of the homosexual lifestyle.
+
+Statistics on sexual promiscuity among homosexuals
+by Matt Slick
+9/13/11
+
+Promiscuity
+1. 28% of homosexual men had more than 1000 partners:  ""Bell and Weinberg reported evidence of widespread sexual compulsion among homosexual men. 83% of the homosexual men surveyed estimated they had had sex with 50 or more partners in their lifetime, 43% estimated they had sex with 500 or more partners; 28% with 1,000 or more partners. Bell and Weinberg p 308."" (exodusglobalalliance.org/ishomosexualityhealthyp60.php)
+
+2. 79% of homosexual men say over half of sex partners are strangers: ""The survey showed 79% of the respondents saying that over half of their sexual partners were strangers. Seventy percent said that over half of their sexual partners were people with whom they had sex only once. Bell and Weinberg pp.308-309.""  (exodusglobalalliance.org/ishomosexualityhealthyp60.php)
+
+https://carm.org/statistics-homosexual-promiscuity",1,0.7,A,"DistilBERT, BERT",1,1,0,0,1
+424211,"I'm still waiting for Trump to apologize to all the ""titties"" of the world.",1,0.5,A,"LR, SVM, DistilBERT, BERT",0,0,0,0,1
+5428034,"America is horribly corrupt. Democrats and Republicans work for the rich and give us enough to shut up, no want to believe I,  and/or not go postal. 
+Objective proof:",1,0.7,A,"DistilBERT, BERT",1,1,0,0,1
+931815,"Kucinich was the sheep herder that led Gabby to slaughter.  He introduced Gabby the Gabbard to Khawam. 
+Her inexperience fell for Kucinich.
+Khawam  taunted her with being at the forefront of Middle East peace. 
+What a worm Kucinich is. 
+How naive she was.",1,0.7,A,"SVM, BERT",1,0,1,0,1
+5291326,Sorry but that is absolute rubbish. Battery technology is already getting bigger and better as well as cheaper. To talk about 'immense cost' is totally and utterly risible.,1,0.6,A,"DistilBERT, BERT",1,1,0,0,1
+5502239,POTUS has always been a figurehead...now it's a twitter deadhead at the helm. Sad that he can't see his own fu-twit-ility.,1,0.7,A,"DistilBERT, BERT",1,1,0,0,1
+6148734,"seems pretty normal to me. A liberal city full of weirdos, potheads, guys with scraggly beards but no mustaches wearing kilts with their socks pulled up to their knees. Guys who wear belts but somehow their pants sag down to their kneecaps with their underwear showing. Crime everywhere. women with rainbow colored hair with a pokeman backpack strapped to their back. People who run across train tracks when the bars are down and the lights are flashing. This is normal for liberal cities. You asked for it and you got it so quit your whining and enjoy your opiod addicted weirdo population of strange deviants and creepy nutcases. Hey.....the gay fondler mayor is gone now! Maybe you can find another gay fondler. This time a woman....preferably with a marine haircut, deep voice, giant adams apple, carrying a socialist novel by Lenin. Oh wait...I forgot your socialist councilwoman. The brown one who spouts such bright ideas like ""Hey lets give boeing to the workers and make it a commune.""",1,0.8,A,BERT,1,1,1,0,1
+5467332,He wants to go help terrorists then just ship him to Syria and be done with him.,1,0.9,A,"DistilBERT, BERT",1,1,0,0,1
+877697,"And what about the sex with young girls on fantasy Island by Bill Clinton
+or Energizer Bunny
+Or Monica???",1,0.6060606060606061,A,"SVM, DistilBERT, BERT",1,0,0,0,1
+515289,So the program was created because some dick head said he couldn't lock up his bike? Then the court dismissed it. Does anybody see the irony. Oregon makes u have a permit to pee them taxes the urine then dismisses the charges and invents the urine court... Brilliant!!,1,0.5,A,"DistilBERT, BERT",1,1,0,0,1
+6199130,"ALL religion is a dangerous fiction, but Islam has been leading the pack lately. E.g. 72 dead in Afghaistan a couple days ago.",1,0.6,A,BERT,1,1,1,0,1
+1064462,"I agree with everything that you said. If a country/culture extends its arms to take you in because you are in dire straits; what sort of ingrate, malcontent, hypocrite bites the hand that feeds? Show some grace, some gratitude. America has your back and will stand up for you but now that you are here....Love it or leave it.",1,0.6,A,BERT,1,1,1,0,1
+5703739,"I'm actually a ""never Trumper"" (I've not voted D or R party for decades, always independent as a matter of principle, no different this year, Scott Walker, the man, not the party), but the corrupt, degenerate media hypocrisy in its endless bigoted Dim cheerleading but GOP bashing for the same thing (i.e. saying nothing about manifestly effeminate sodomitephyle 0bama but insanely pretending Trump is) is too vile to stand.",1,0.7,A,BERT,1,1,1,0,1
+943289,"People who sucker punch people should be charged with attempted murder. If you sucker punch someone, its pure chance if they don't end up dead.",1,0.5375,A,"DistilBERT, BERT",1,1,0,0,1
+5898475,"Korea is led by a maniac and the people are too timid to overthrow him. They will unfortunately suffer the consequences when the little 'fat' boy crosses the line.  We  killed civilians in Germany and Japan to defeat a determined well armed foe. What would you have us do, drop our weapons and allow Hitler to murder the entire world?  Iraq was led by a brutal dictator that  went from bad to worse when he was deposed. The people were just not ready for democracy.  Its true we have helped to install some terrible dictators, but the alternative was worse.  Sometimes the choice between good and evil isn't clear-cut and  is  boils down  to supporting  the lessor of two evils.",1,0.5,A,BERT,1,1,1,0,1
+5467060,That's just foolish. War isn't a sport and it isn't about giving the other side a chance to kill our guys. If we can push a button and win without putting any of our people in danger - that's the ideal situation.,1,0.5,A,BERT,1,1,1,0,1
+5525961,"Don't forget Muslims.  There are endless tales in the Globe of how  they are all such wonderful wonderful people, and the only bad people are white Canadians  who ask questions.",1,0.8,A,"DistilBERT, BERT",1,1,0,0,1
+6196450,"Again right-wing snowflakes deemed the following comment uncivil:
+
+""Plus, if he thinks homosexuals are sinners, he is required to serve them, following the example of Jesus who served sinners.
+
+This guy is really bad at being a Christian.""",1,0.5,A,"DistilBERT, BERT",1,1,0,0,1
+5154838,"You ought to know, you worship trump daily and spray cans of Glade just can't cut it. And you think it's funny that trump abuses women, gropes them, lies, cheats, and represents the worst in American politics. Yup, he's your man alright.",1,0.5,A,BERT,1,1,1,0,1
+402959,"Nevermind the wankers Billy. They're probably supporters of crooked Hillary, much like ADN! A cc carrier would have been great on this rafting trip!",1,0.6515151515151514,A,"LR, SVM, DistilBERT, BERT",0,0,0,0,1
+4979370,"look at all the monkey's in the picture making a fool of themselves, Chin what the revised rule now is only new people from those six terrorist countries are banned because they have no government where we can vet them good and find out what there background is. those that are already living here that have a green card or a stay visa are not affected by this travel ban law. you guys just don't get it, if you want to make monkey's of yourself, be my guess.",1,0.5,B,HateBERT,1,1,1,1,0
+6280840,"Life is cheap in Hawaii, not extradite because of not getting a fair trail or a 'free' attorney.  Not to mention she died when she fell, yep, fell right into his knee.  Yo, know you know, if you want to 'bump off' someone, you know where to go.  Great justice for victim.  As the saying goes, crumbs have more rights then victims.  Judges need to their $**T together.",1,0.5,B,"LR, SVM, HateBERT",0,0,1,1,0
+5295874,"So the disastrous immigration at all costs polices of the G7 are now being seen in their ugly light.
+
+As sensible people along said "" Don't hurry - lets think this through"". The elites saw an opportunity to bring in fresh meat as all G7 countries are getting older and less productive.
+
+No thought was considered to the security of our countries. Only blind lust at bringing in fresh meat.
+The bureaucrats and apparatchiks behind the strategy duped the stupid politicians who couldn't even screw in a light-bulb.
+
+What do we have now
+Utter chaos as flailing politicians froth on how to save their careers.
+All the while bombs go off everywhere.
+The new star spangled banner - BOOM!",1,0.6,B,HateBERT,1,1,1,1,0
+763078,"Regardless of your opinion on how the situation should be solved, you have to like Kerry listing all the places he's been and people he's talked to in both Israel and Palestine, over many years.   
+
+With us knowing all the while that this will follow:  
+Trump: What did Kerry say?
+Conway: Two-state. 
+Trump: Another failure speech by pathetic Jim Kerry! Sad! And even if there are two states I will win them both!",1,0.5,B,"SVM, HateBERT",1,0,1,1,0
+4999117,"Sure, Omar the child soldier deserves compassion, but his traitorous Al Qaeda family that put him there deserve deportation….",1,0.6,B,"LR, SVM, HateBERT",0,0,1,1,0
+5919746,"Ruse may or may not be a homosexual, but his tweets certainly suggest that he is a man with unresolved psychosexual issues. I wouldn't think there would be any point in engaging the filthy tweets.
+I thought Crisis aspired to be a serious publication.  If so, they have to terminate their relationship with this guy; he's clearly reckless and irresponsible.",1,0.5,B,HateBERT,1,1,1,1,0
+5404129,"I agree and sometimes I can be a bit harsh myself.   You do realize that you called approximately 1/2 the voters in the state ""fools"", don't you?   From my perspective, with the liberal influx from California, you are very close to being right.",1,0.6,B,HateBERT,1,1,1,1,0
+522472,"What HRC is saying is an unaware and compliant dem. voter. The dem. party leaders treat the dem. party voters like ignorant puppets, and guess what? They are rewarded for it. I wonder just how long it takes for the puppet strings attached to their loyal subject to start hurting but then I remember, the strings have been there for so long the loyal subjects don't even realize they are there anymore. Thanks dems., you gave us no choice but a DT. You with your arrogance, with your attitude of just shut up and go along, you with don't worry about endless wars and 20 TRILLION dollars of debt, you with it is okay to print massive amounts of money, thanks dems. for propping up WS. It is also easy to add thanks to the entrenched repubs. they also treat the voters like fools. DT is the result of people getting totally fed up with the status quo. At least the people who have shed the puppet string, we see there are those here who have yet to realize they are attached. Fools.",1,0.6,B,HateBERT,1,1,1,1,0
+5329696,"Imagine a U.S. where the law allowed exceptions for every religious tenet. The Bible says that homosexuals should be killed. Do you think lawmakers should be consulting the Bible (or the Koran) before they pass laws? The U.S. is not a theocracy. However, the Islamic State is. Maybe this baker should seek to live with them.",1,0.6,B,"DistilBERT, HateBERT",1,1,0,1,0
+5779417,"Life of the lay, says, I never said she was (a prostitute).  What a way to take what was being discussed and attempt to get out of discussion.  First, I said the Bishops said she was a prostitute.  I made it clear she was indeed not.  You defended the bishops engaging in character assignation.  You yourself bring out the ugly in yourself, we are not attacking you personally but showing how you just are not engaging in a conversation.  On this very board you used character assignation against Martin Luther King and others on this board.  You yourself talk plenty ugly...",1,0.6,B,HateBERT,1,1,1,1,0
+724685,"That's OK if you don't want to kill him, Ms. Parker.  Let me do it.",1,0.8,B,HateBERT,1,1,1,1,0
+5254753,"Totally agree.
+
+If you think this is bad, these loser eco terrorists actually think plastic drinking straws are a major threat to the environment. In California they are working to ban them.
+
+What is next for these Bozos?
+
+http://www.mercurynews.com/2017/03/16/restricting-use-of-plastic-straws-the-latest-trend-to-clean-up-california-beaches-ocean/",1,0.7,B,HateBERT,1,1,1,1,0
+6057384,"Poor little Trumplthinskin was getting criticized by the big, mean mayor. And a female mayor to boot! His fragile, misogynist, narcissistic ego got a tiny bit bruised. And so it goes.",1,0.671875,B,HateBERT,1,1,1,1,0
+5413848,"Twolf, I'm flagging your name-calling comments. Just so you know. Can you not make your point without that useless vitriol?",1,0.6,B,"LR, SVM, HateBERT",0,0,1,1,0
+6149384,"Ungrateful Canadian!
+Too bad Donald saved the Canadians wife/kids but the Canadian was included in the package.",1,0.7,B,"LR, SVM, DistilBERT, HateBERT",0,0,0,1,0
+5898684,Must suck to be him to have to worry about a rogue boner popping up uncontrollably. What a laugh. Lawyers will think of anything to introduce doubt. The court recorder mustʻve had a tough time keeping a straight face. hahaha,1,0.6625,B,HateBERT,1,1,1,1,0
+6051357,"The title Master should remain. If you are so ignorant of history and etymology to be offended by it, you have no business being at Massey College.",1,0.6,B,"DistilBERT, HateBERT",1,1,0,1,0
+388725,""" In other words, she’s not suffering from dementia"".  Just for the record I'm not voting for Trump or Hillary the Sociopathic Liar, but I do sincerely  hope Ginsburg doesn't have dementia. Because when Trump most likely does become President I want her to remember and keep her promise to move out of the USA.",1,1.0,B,"DistilBERT, HateBERT",1,1,0,1,0
+5506068,"Most ignorant post of the season. ""Worst Offenses in Baseball""  really why is it they rank 6th in offense for entire MLB? and 4th in the NL.  You pick out one pitcher that has the Rockies number, happens to every team, one pitcher seems to pitch and match up well against a team. Means nothing.  Every team goes through a hitting slump, you look at past years performance and you know this team can hit.  It is the pitching that is questionable for the entire season, Rookies and facing batters multiple times is the issue, you think you know more than Bud Black? Please, its well established, hitters facing pitchers more times read them better and do better.",1,0.8333333333333333,B,"LR, SVM, HateBERT",0,0,1,1,0
+741016,"That's a really dumb question since the cost of wait for it...living...varies based upon where you live.
+
+I have a suspicion that you are way more interested in the welfare costs to the nation than what our wars cost or military black budgets or R&D or foreign aid to Israel and other nations or corporate subsidies etc...",1,0.5,B,"DistilBERT, HateBERT",1,1,0,1,0
+1042586,they are lazy and greedy - they can't do a real day of work and they know it.,1,0.6,B,"DistilBERT, HateBERT",1,1,0,1,0
+5197437,My word. It took them 1 year to catch a lunatic. How long to catch someone with a it of brains?,1,0.5,B,HateBERT,1,1,1,1,0
+5373785,"Trump is not and never will be a legitimaTE PRESIDENT OF America.  hE IS A tv ENTERTAINER AND A FRAUDULENT, SLEAZY BUSINESSMAN.  hE HAS EMBARRASSED THIS COUTNRY WITH HIS CONSTANT BUNGLING.",1,0.5394736842105263,B,HateBERT,1,1,1,1,0
+5787337,"The only person wetting himself is Bannon. New cheif of staff John Kelly hates Bannon and is rumored to be pushing him out. Had Kelly been hired from the get-go, most of the inexperienced fools that currently occupy Trump's clown car wouldn't be anywhere near the White House. Now that adults are finally running the show (Kelly and Mattis), I expect the administration to embarrass itself less frequently than it has the last 7 months.",1,0.5,B,HateBERT,1,1,1,1,0
+926036,"I assume you are joking, but many of the world's best athletes and body builders have adopted vegetarian and vegan diets. Not all are dumb, and they are certainly not slow or weak. So watch out, omnivores!",1,0.5,B,HateBERT,1,1,1,1,0
+460648,"You obviously are very ignorant about running in this community and about athletics in general. You clearly don't understand the role of college athletics in our society and the real value it adds. There is a reason why the vast majority of universities across the country have vibrant well rounded and seasonal intercollegiate athletics programs and why every state in the U.S. has college sports. The U.S. is the envy of the world when it comes to the synergy created by higher education and athletics. 
+
+You need to educate yourself sir.",1,0.5,B,"DistilBERT, HateBERT",1,1,0,1,0
+5296074,"Having this young entitled man spend some prison time with un-entitled prisoners will definitely be an attitude changer for him. And he (reality: his parents) should pay restitution to all those that experienced financial losses because of this idiotic act of violence. Entitled or not, we are a nation of laws and ignorance of the law is not an excuse. Or perhaps in this case ""arrogance above the law"" will not be excused. 
+All eyes on the judge....",1,0.5,B,HateBERT,1,1,1,1,0
+6114175,"Ok, to your first point look up like five posts and you will see I sad that exact same thing. We are all of us called to both the contemplative and practical. 
+
+I was so wondering if someone at NCR was going to go there, and lo and behold, it finally happened. I'm grateful you did not call be an ""alt-right"" Catholic at least. Stormtrooper in the sense of the guys in silly white armor that can't shoot the broadside of a barn.  Not the freaking SA! I hoped that would be obvious",1,0.7,B,"DistilBERT, HateBERT",1,1,0,1,0
+1048710,Strap Trump to the top of the nose cone and blast off the rocket.,1,0.7,B,"LR, SVM, HateBERT",0,0,1,1,0
+6107394,"Mark McGuire, absolutely agree.  It is time to enforce laws on those who flagrantly disobey them.  If this was done, no need to close the park and spend $500K fixing the damages.  Inept government officials.  Nauseating.",1,0.6,B,"LR, SVM, DistilBERT, HateBERT",0,0,0,1,0
+916102,"Can't read bar graphs either?  
+
+You made an ignorant comment about Chicago Homicides; I posted the actual statistics for Chicago for the entire year of 2015.
+
+FBI statistics on the Black on Black homicides and specifically in Chicago have shown the same thing for decades.
+
+Read.  Learn.  Then post.",1,0.5,B,"DistilBERT, HateBERT",1,1,0,1,0
+1028562,"How about a story on Gosnell.  To me it seems that when politics gets in the way of good policing, things like this happen.  Can you imagine...they didn't want to report on that story because it would blow up the homicide numbers and they didn't want that to happen.  Crazy man.",1,0.5,B,"LR, SVM, HateBERT",0,0,1,1,0
+5691442,"Hey Newt, tell us again how this foul mouthed punk and Trump are two birds of a feather. This is the only thing good to come out of the white house in months. Maybe the General IS taking the reins.",1,0.5,B,HateBERT,1,1,1,1,0
+743061,"The snowflakes on college campuses think this is a rapey song? God, I hate my generation.",1,0.5,B,"LR, SVM, DistilBERT, HateBERT",0,0,0,1,0
+794072,"Of course they refuse to give out the race of the attackers and victim.  It's not PC to do it.  I'd put money on it that the feds will not charge them with a hate crime.  I'm sure they did it because they have been denied something...  I have no idea what would ever justify it.
+
+My question is what would be happening now had the races been reversed and it would have been Obama and blacks being cursed?  Al Sharpton, where are you now, protestors???",1,0.7,B,"LR, SVM, HateBERT",0,0,1,1,0
+5960536,That's damn funny!  Thanks for the laugh Chimborazo!,1,0.8333333333333333,B,HateBERT,1,1,1,1,0
+1036868,"Many country have, mixed gender bathrooms, and they have no problems with it.
+In the not so distant future, it will be normal for both genders to use the changing room and showers together. So until we reach that time, transgender people will have to decide what gender they wish to be. And then have a sex change surgery, if they do not have the surgery then they are just weired and perverted.",1,0.6,B,"DistilBERT, HateBERT",1,1,0,1,0
+5415437,"I SAID THAT AND THEN SOME.  A GOOD FOLLOW UP WOULD BE TO PUT $1,000 BOUNTY'S ON ANYONE PERCEIVED TO BE AN ILLEGAL ALIEN, GANG MEMBER OR MUSLIM!",1,0.7,B,"LR, SVM, DistilBERT, HateBERT",0,0,0,1,0
+6139203,"The Jets played poorly, but were fortunate that Markstrom played like crap and let in 2 softies. The Jets other 2 goals were a fluke off a Canuck D and an empty netter. Bigg phhht. The Canucks failed in the transition and let the D get backed up and checked all night. Still, they outplayed the Jets, outshot, and outchanced them.",1,0.7,B,HateBERT,1,1,1,1,0
+884513,"You don't have advanced technology to talk about actually. NATO is American's, not much to do with Canadian, it is all dictated by American.
+And finally, Canadian talking in American shoes is ridiculous, you don't sit in oval office.",1,0.5,B,"SVM, HateBERT",1,0,1,1,0
+798108,Hopefully all of the deplorable a that voted for Hillary will be exposed and tortured indefinitely,1,0.8,B,"SVM, DistilBERT, HateBERT",1,0,0,1,0
+5548687,"Er, what is 'homosexual conduct'? And where does 'God's law' say 'no' to it?
+
+You see I think of homosexual conduct as committed love. And love, true love, is many things more than one. Where does God ban this? You clearly equate homosexual conduct with one thing: an*l s*x. So we are at cross-purposes here.
+
+Are you sure that old cardinal you quoted wasn't a closeted (though perhaps not closeted to everyone), self-loathing gay man himself?  He certainly sounds the type to my ears.
+
+You're obviously not aware that many hetero-couples engage in this kind of s*x, and that many gay couples do not.",1,0.7,B,HateBERT,1,1,1,1,0
+1009406,"quit being so damn picky........ Kellyann told me just the other day that ""alternative facts"" were just as valid as those ""other"" ones.   Gary Crum",1,0.8,B,HateBERT,1,1,1,1,0
+5863380,"So...black lives don't matter and you're pro-fascism?  Just asking, based on your very vehement comment.",1,0.525,B,"LR, SVM, DistilBERT, HateBERT",0,0,0,1,0
+5601243,Stop or I will stab myself I swanee...,1,0.7678571428571429,B,HateBERT,1,1,1,1,0
+322149,I do believe this What some one trying to stir up problems again because of race? well Mike Dunham wake up and smell the roses. I have seen the film the Corp of Engineer made on this. There are books on this. When it was the Fifty Anniversary of the highway I traveled from Alaska clear Canada you should have the items honoring all of the people that worked on that road and the history . I think some one is trying to stir up trouble before the black man is out of the White House. { THIS RACIST  GARABAGE AGAIN },1,0.5,B,"SVM, DistilBERT, HateBERT",1,0,0,1,0
+6017764,"Merkel brought this on Germany, just like she brought on the invasion of Germany and Europe.  It was her whim. Not discussed with the citizens or with their parliament. 
+
+She is a criminal.",1,0.7,B,"LR, SVM, HateBERT",0,0,1,1,0
+863912,"But there is a Wall of Meat showing up, so grab your p***ys if the pres-elect hasn't already, the shock absorbers won't handle this",1,0.6,B,"LR, SVM, HateBERT",0,0,1,1,0
+833373,"Seriously dude? You are an Old-White-Male headlining a piece ""reeks of entitlement"".  Um, could you possibly be more tone deaf?",1,0.5,B,"DistilBERT, HateBERT",1,1,0,1,0
+5505430,Where's the special prosecutor to investigate who was responsible for this latest foul up? Give it to Chin. He's good at chasing foul balls.,1,0.5,B,HateBERT,1,1,1,1,0
+5637979,"Our government separates Church and State. We live in a schizo-democracy.  In Church, you are your brother's keeper.   Outside of Church, your brother better watch out for himself or suck thumb.  You can't mock your neighbor in Church.  But outside you get the 1st Amendment right to mock to your heart's content, so long as no get sticks and stones to break bones.  In Church, you have to sneak around the pastor to secretly kick the punks flipping you off across the pews.  So here, you gotta clandestinely whisk the knucklehead teens behind the parking lot and give 'em cracks -- in the local part-Hawaiian tradition --  no police, no courts.  Just the top of the foot and back of the hand 'nuff.",0,0.1666666666666666,C,"LR, SVM, HateBERT",1,1,0,0,1
+4967241,"And as usual, an article on climate draws the usual ignorant comments from climate change 'skeptics' who couldn't find the Arctic Ocean on a map.",0,0.3,C,"LR, SVM, DistilBERT, HateBERT",1,1,1,0,1
+5352479,"#BlackLivesMatter (Not all lives matter) Same narrative Dr. Benjamin. Doesn't fool many of us. 
+
+All abuse and murders are wrong. Not just a specific race or gender (Left wing politics are hypocrisy)",0,0.4,C,"LR, SVM, HateBERT",1,1,0,0,1
+589904,"BTW many people, even on your side, agree that Gravel was a major wacko.",0,0.4,C,HateBERT,0,0,0,0,1
+604815,"Oh, this is going to be fun, I can tell....
+
+Let us begin again, Wolf, the moronic Eagle.
+
+Woodrow Wilson founded the very Progressive Movement that you claim so much to be a part of within all of your previous posts, and I have to tell you, that utilizing such terms as inbred, fascist, racism, bigotry, misogyny, etc., does not hurt me within the least, Wolf, because I am an Individualist Libertarian, that does not recognize race, pigment, sexual orientation, gender, or political persuasion.
+
+I recognize, and respect the individual, and as an individual, clearly you do not, as you, Wolf, are a what we use to call a One Trick Pony.
+
+All you have within you is the racist view that any other individual that disagrees with you must somehow be any of the 'ists', or 'isms', that you have determined, not understanding that you, Wolf Eagle, are exactly what you attack.
+
+You do not hate those that you perceive to hate you, Wolf Eagle.
+
+You hate yourself.
+
+And for that, I am most sorry for you.",0,0.3,C,"LR, SVM, DistilBERT, HateBERT",1,1,1,0,1
+6106782,"There’s plenty of room in Alabama, where your new senator is the esteemed Judge Roy Moore.Why be miserable, move to a state where people believe that being a racist is a state right, lol",0,0.4,C,"LR, SVM, HateBERT",1,1,0,0,1
+341841,It's so nice to see the trolls forming a little writers group!,0,0.4,C,"LR, SVM, HateBERT",1,1,0,0,1
+6076876,"1950's be damned!!  It will be more like the 1850's and you know what, we will  be back to burning wood and coal to heat our huts.  These climate change nuts need to get a grip.  They live in a dream world.",0,0.3,C,"LR, SVM, HateBERT",1,1,0,0,1
+5833102,"""I guess teams don’t want the distraction or whatever, but really he’s doing all positive things in the community, so why wouldn’t you want that on your team?”
+
+I guess I don't see how wearing socks depicting cops as pigs is one of those ""all positive things.""",0,0.3,C,HateBERT,0,0,0,0,1
+5436681,"""We remain very concerned over the lack of secondary and tertiary executive-level appointments,"" they said in a letter signed by 25 prominent conservatives called the Coalitions for America, describing their concern that the leadership vacuum will create ""mischief and malfeasance"" by civil servants loyal to Obama."" 
+
+What a load. You can't make this whining up.   Here we have a President and administration under investigation for obstruction of justice, among other things, and these clowns profess to be ""worried"" about Obama loyalists. If that's the case, no wonder Trump and his goons have slipped under the radar so easily and so often: As usual, the GOP finger is pointing the wrong way.",0,0.4,C,"LR, SVM, HateBERT",1,1,0,0,1
+560591,You should look at his history more closely. You will find that trump and the clintons have a long bad past together. Watch the documentary Trump What's the deal? He is not as good as you portray him and he will not make our country great again. He is on trial for rape charges from a lady that states that he and his convicted pedophile billionaire friend Jeffery Epstein raped her when she was 13 years old.... Jeffery is also good friends with Bill Clinton. Just do more research please. Im sure you wouldn't want a president that is a predator in office.,0,0.0,C,"LR, SVM, HateBERT",1,1,0,0,1
+807839,Watch out for the snakes when down under. They are nasty.,0,0.4,C,"LR, SVM, HateBERT",1,1,0,0,1
+1035547,"all of trumps advisors are suck up yes men - even kellyann. trump really, really like yes men. they bolster his fragile cartoonish megalomania - kind of like kim jong un  ..... most have no experience in the position they've been appointed to. trumps appointments  has pretty much evolved into who doesn't step back fast enough is trumps new ""volunteer"" advisor. a bad reality game.
+     because trump knows no checks and balances, and wants no input - we are doomed to be the world's biggest biatch.  and i'll bet the world for the most part will enjoy the heck out of our fall from power... we've been such a holes for the most part. don't be surprised when some of our ""loans"" become payable upon request..
+ the idea trump can pull a plan out of his ear that will work here - such  simple, stable  political dynamic to balance of powers in the world. no he won't tip over any carts.. of course he won't...he is delusional",0,0.1521739130434782,C,"LR, SVM, HateBERT",1,1,0,0,1
+281531,Institute the death penalty in Alaska,0,0.0,C,"LR, SVM, HateBERT",1,1,0,0,1
+389240,The most hilarious utterance yet by this brat of privilege!,0,0.3,C,"LR, HateBERT",1,0,0,0,1
+5493741,Thanks for catching the error.   I can only hope my pathetic spelling brings up the correct word for substitution by the spellchecker..   Not this time apparently,0,0.0,C,"LR, SVM, DistilBERT, HateBERT",1,1,1,0,1
+5542040,Ice Cube the Farrakhan-loving racist.,0,0.4,C,"LR, SVM, DistilBERT, HateBERT",1,1,1,0,1
+5114268,Jail him. In Guantanamo with his fellow terrorists.,0,0.4,C,"LR, SVM, HateBERT",1,1,0,0,1
+627077,"This guy works just like Obama - ""we have to come up with an agreement... My agreement.. and if you don't agree I'll take the rest of your Constituents PFD.""  There is no compromise with this guy! He's a thug trying to spend as much money that isn't his as possible..",0,0.1666666666666666,C,HateBERT,0,0,0,0,1
+5562193,"""Gays can purchase any pre made cake they want at Masterpiece Bakery because it's right.""
+My God, you convict yourself with your own words.
+How is what you wrote any different from ""Blacks can ride any public bus they please, as long as they sit in the back""?
+No, Thor, gay couples cannot be restricted to pre-made cakes from a bakery shop that provides custom cakes to straight couples. That's discrimination.",0,0.0,C,"LR, HateBERT",1,0,0,0,1
+6292631,"The wapo again?  With the same 'Trump bashing' 'Nevertrump' articles, they never stop.  They always find something to bash Trump about.  Not once saying, 'well, we like this idea'  Nope.  The wapo, ap, nyt's, DP, ALL are branches of the left, the Dimm's.  The print what their nodders want to hear, and nod to, nothing of newsworthy status, just barbs to the GOP.
+
+I would imagine, even those so inclined would realize they are being fed garbage after a bit.",0,0.3,C,"LR, HateBERT",1,0,0,0,1
+663359,"No wonder Trudeau and his band of Merrie Tax Plunderers are on the retreat as sensible, hardworking Canadians are finally voicing their concerns about this really stupid decision.
+The next step - if Trudeau insists on keeping on the path of accepting more and more ""refugees"" to be a drain on our system - is to take action - Dakota style.
+Time to indicate we will not stand for this nonsense......yes the Trojan horse is being hauled into our gates and it is time to say ENOUGH!",0,0.3,C,"LR, SVM, DistilBERT, HateBERT",1,1,1,0,1
+905566,"Yes London England, a lap dog, a courtier. Truly if the words make you feel superior fine but they are simply inconsequential. 
+
+One must muse at the crazed, frustrated Marxist from Toronto who are incapable of understanding the will of the people. 
+
+It's over lefty, deal with it.
+
+We see you and we reject you on a Global stage!!!!!",0,0.2,C,"LR, SVM, HateBERT",1,1,0,0,1
+4966502,Kiev trolls.,0,0.1666666666666666,C,"LR, SVM, DistilBERT, HateBERT",1,1,1,0,1
+689683,"So we have a PUD that builds 12 million dollar buildings with ""executive"" suites as far away from their customer base as they can get. Then they spend a couple hundred grand to build a solar array in Sequim. Now the city of PA jumps on board the idiot train and decides they have the skills and knowledge to get into the power generating business as well. Gee, is it any wonder why the residents of Clallam county are broke?",0,0.0,C,"LR, SVM, HateBERT",1,1,0,0,1
+573349,"I like Lisa, too.  I also like Chong and Bernier and there are several other strong candidates in the race.  Indeed, this is a most impressively diverse and capable field of well qualified field of candidates for the CPC leadership!  Such a contrast with the other guys who in 2013 just went with the cute as a button kid with zero relevant qualifications but with the famous name.  As to the Trudeau trolls and Tory haters piling on here, I would note that only rabidly partisan morons would bang on about candidates having to disavow their associations with the Harper government that by all objective measurements and by all annual international surveys presided effectively and efficiently over a truly blessed country during a period of extraordinary economic turbulence.",0,0.2,C,"LR, SVM, DistilBERT, HateBERT",1,1,1,0,1
+5721539,"SIGH - Sanders won the Colorado Democratic caucus, please don't try to rewrite history - the caucus system delivered the proper candidate for the Democrats.  The open primary concept is crap and I hope both parties pull out of it.  I do not want people who are not willing to join a party selecting the party candidate, be that Republican or Democrat.",0,0.4,C,HateBERT,0,0,0,0,1
+6204345,"debunkd by............. wapo/nytimes/huffpoo...................MWAHAHHAHAHAHAHAHAHAHA
+...
+the dems luv You stoooopid",0,0.3,C,HateBERT,0,0,0,0,1
+546592,"If a clown has nothing of substance to say, why say it?",0,0.0,C,"LR, SVM, DistilBERT, HateBERT",1,1,1,0,1
+5317094,Your comment is repulsive in its rank bigotry and venom.,0,0.2,C,"LR, SVM, DistilBERT, HateBERT",1,1,1,0,1
+6301223,"The old stock market chestnut ""pigs get fat, hogs get slaughtered"" could be applied to this situation where many wealthy people are in a dubious predicament with tax evasion. Time is up hogs!!",0,0.1666666666666666,C,"LR, SVM, DistilBERT, HateBERT",1,1,1,0,1
+5054985,"Your ignorance of history is astounding.  The ""precedent"" of which you speak goes all the way back to J.Q. Adams.  The precedent is to NOT impose a lame duck nominee on the incoming administration.  (You might also google the democrat ""rule"" imposed on D.D. Eisenhower, and Biden advising Bush in 1992 not to submit a nominee, as well as other examples of, democrats destroying perfectly legitimate nominees with personal attacks, inuendos, etc. Primarily ""Leave-em-dead-Ted Kennedy vis a vis Bork, and the attack on Clarence Thomas, just to name a couple.)  Please read Article II, Section 2, clause 2 of the Constitution.  ""...By and With the Advice and Consent of the Senate...""  There is no Constitutional requirement that ANY and EVERY nominee be considered.  The hypocritical dems have a long and proud history of blocking  nominees.  They sure don't like it when the same ""rules"" apply to them, do they!",0,0.3,C,"LR, SVM, DistilBERT, HateBERT",1,1,1,0,1
+580557,I don't need money to be happy like some greedy people do. You don't know what my net worth is yet you burp up more nonsense.,0,0.3815789473684211,C,"LR, SVM, DistilBERT, HateBERT",1,1,1,0,1
+1082882,"Bad hair, poor dye job, ridiculous make up, a too long tie.......then there is a distinct need for a lobotomy. That's enough reasons for now.",0,0.4,C,"LR, SVM, DistilBERT, HateBERT",1,1,1,0,1
+5080252,Trost is a dinosaur in his views on gay rights.  He would be more at home in the Christian Heritage Party and should go join there.  People like him is what will keep the party in opposition and the party would be best to tell him to take a hike.,0,0.1666666666666666,C,"LR, SVM, HateBERT",1,1,0,0,1
+5451001,"Hahaha so many white people pissed off, I love it...great job on ruffling some white feathers advocate Busisiwe Mkhwebane.",0,0.3,C,"LR, SVM, HateBERT",1,1,0,0,1
+5200352,shoo troll,0,0.4,C,"LR, SVM, DistilBERT, HateBERT",1,1,1,0,1
+332432,You Addict Logic Is Showing. Your Blowing Pretty Hard on the Key Board in this Thread.  Go Drink Your Coffee and Head Off to Your Corner of the Shop. Do Not Forget to put on that Pointed Hat with Your Name Written on it The One Spelled DUNCE.,0,0.2380952380952381,C,HateBERT,0,0,0,0,1
+5517751,"nothing is going to be built or developed in bc under these alt left lunatic bud, the economy is about to crash",0,0.2,C,"LR, SVM, HateBERT",1,1,0,0,1
+1070159,"""So you want a double standard then?""
+Why does any standard have to apply?  There is no sense of ""fair"" in international politics nor is there a police department.
+""Why don't you go protest about all the things the US is doing in other countries that is so much worse than Russia giving people things to post on Facebook.""
+Because I know better than to waste my time on such relativistic idiocy.  I could argue concepts like ""American Exceptionalism"" or even just simple patriotic self-interest but it seems you function under some gross misconceptions.  You don't see Trump or any of his officers and executives giving back the millions or billions they earned taking unfair advantage of others, even their fellow Americans, from underpaying basic labor to gaming federal taxes yet you believe anyone owes the rest of the world ""fair play"" to intrude in US elections, politics, etc.",0,0.0,C,HateBERT,0,0,0,0,1
+4981992,"I think Canadian Muslim's should admit that teachings of Islam include ""Do not take Jews and Christians as allies "" the Qur'an 5:51 !
+Islam is either a Cult of Violence OR a religion that promotes hatred !
+I don't want someone who , in another country would be treated as an inferior, telling me what I should feel about Islam ! Islam is completely incompatible with our Judeo / Christian Values !
+If you want to promote more peace in the world , start with the Middle East . Just look at what Muslim Refugees are doing to Belgium , France  and the UK !
+Do you think we want this in Canada ?",0,0.0,C,"LR, SVM, HateBERT",1,1,0,0,1
+5855458,Unsubsidized customers face hardships?  you mean white people.,0,0.2,C,"LR, SVM, HateBERT",1,1,0,0,1
+885904,"Oh, I think this President is taking no prisoners and will be unlike any other President in history. If he truly means America first and buy American everything, we are in for a very long NAFTA renegotiation. 
+Of course, he just might be shooting off his fat mouth. It's really hard to tell.",0,0.1666666666666666,C,"LR, SVM, DistilBERT, HateBERT",1,1,1,0,1
+752374,"<<The Southern Poverty Law Center is a disgraceful, racist entity.>>
+
+I seldom bother to post a ""Disagree"" reaction, but your post is a pathetic attempt to smear a well-respected civil rights advocacy group.  Your post says infinitely more about you than about them.  It is you, not they, who cannot be taken seriously.
+
+Following the election, I renewed my membership in the SPLC, which had lapsed.  For those who are not familiar with the SPLC, here is a link to their website: https://www.splcenter.org/
+I also recommend the Wikipedia entry for a decent summary of the history and work of the SPLC:  https://en.wikipedia.org/wiki/Southern_Poverty_Law_Center",0,0.1111111111111111,C,HateBERT,0,0,0,0,1
+6079983,Putting a whole new face on hypocrisy,0,0.4,C,"LR, SVM, DistilBERT, HateBERT",1,1,1,0,1
+5406932,"Aren't you a serial rapist? There's some loose evidence that says as much. Good enough, wouldn't you say?",0,0.4262295081967213,C,"LR, SVM, HateBERT",1,1,0,0,1
+922263,Amen Cyndy!  Why is the RG protecting an eavesdropper?  The Russians eavesdropped on Hillary's emails and the RG went after the Russians like Old Yeller on a ham bone.  Why the epic hypocrisy here?,0,0.0,C,"LR, SVM, HateBERT",1,1,0,0,1
+975930,Hypocrisy is a value that I think has been embraced by the Conservative Party. We get lectured by people all day long about moral values by people who have their own moral shortcomings.  Rona criticizing Trudeau's vacation while sitting on a billionaire's yacht takes the cake . She will wear this for ever and it is clearly the height of hypocrisy.,0,0.4,C,"LR, SVM, HateBERT",1,1,0,0,1
+941603,"It's only hypocritical when the actions contradict the rhetoric.
+
+Jeepers, Leah!",0,0.4,C,"LR, SVM, DistilBERT, HateBERT",1,1,1,0,1
+981475,some kids and a family are going to be devastated... because of a sick individual.,0,0.0,C,"LR, SVM, HateBERT",1,1,0,0,1
+6147331,"""most likely this occurred via an ill food handler preparing food""
+So this likely means they haven't eliminated the source of contamination since they have not tested the employees for being the actual source. Hobo cook Allie in the kitchen is probably going to be scratching his balls and touching your food all over again. Some never seem to learn.",0,0.0,D,BERT,0,0,0,1,0
+5890667,"But when anyone points out the ""glaring hypocrisy and sanctimonious whining"" coming from Trump - calling him out and exposing him - I have no doubt you're angry at them for doing so.
+
+Gooses, ganders and sauces come to mind.",0,0.4,D,"LR, SVM, BERT",1,1,0,1,0
+276229,Only if he can tax the crap out of the property owners.,0,0.0,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+6117006,"""Because a prostitute is someone who would love you
+no matter who you are
+or what you look like.""",0,0.0,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+5771979,"Talk about  drama.  A legion in the south?  Good grief.  They are a small bunch of lost losers, both in the south and the north.  Abortion has nothing to do with racism, except for the fact that it is slowly decimating the populations of minorities.  Margaret Sanger would be proud.",0,0.2,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+407784,In China they just execute.,0,0.3,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+6124336,"My first thought, exactly!  No doubt, this reason alone -- more low-wage workers for Trumpy's hotels and resorts -- was the single-most motivating factor in the Trump administration's decision to do a swift, hypocritical about-face.",0,0.3,D,"LR, SVM, BERT",1,1,0,1,0
+5596677,"A fascist is a fascist.  I've given the Merriam Webster definition.  I don't use the term willy nilly.  I've seen fascism growing rapidly in the conservative movement.  It has changed.  No more Nelson Rockefellers and Henry Cabot Lodges, Elliot Richardsons, etc.  I do not believe that all conservatives are fascists, but it's unfortunate that all of the fascists belong to one particular party.    That is a fact.  Why does the GOP, the conservative party, allow it?  Donald Trump is a fascist, and straight conservatives voted for him, overwhelmingly.",0,0.0,D,BERT,0,0,0,1,0
+5519684,"There are real problems that need to be addressed by this sorry excuse for a man, and President ... Republicans this is the best you got??!!  You should hang your heads in SHAME this weekend ... our forefathers are rolling in their graves.",0,0.3823529411764705,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+446162,trump and his whole ilk are UNSAVORY.,0,0.1162790697674418,D,"LR, BERT",1,0,0,1,0
+5753469,"It was retracted because it actually works in President Trump's favor - the last thing Kim Jong Un wants to hear is that President Trump is less responsible than he is! In any case, the last thing the Dems want is for Donald Trump to successfully clean up their mess an become the darling of the world - what a bunch of delusional twits....",0,0.4,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+5518186,"RTH, trump didn't come from the ""bust your face era"", he came from the NAM era. The era where the only way to squirm out of NAM was with $$$ and doctors to lie. This filth used it many times. These era men were in NAM, while pootus was slithering around. This latest video proves he is mentally unfit.",0,0.4,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+5452894,"Here's a member of the Pussyhat nation talking about needing tissues for my feels. Hilarious. Seems like you guys already used up the resources in November, and every month since, crying about TRUMP and Der Russians! Go have a March about it, why don't you? Knit another crotch to put on your brain, so we know where these ideas are coming from.",0,0.3,D,"LR, DistilBERT, BERT",1,0,1,1,0
+5504713,"Its gonna be a sad day, there is already a scarcity of good paper for wiping your butt, without ADN it will be dat much harder for the homeless community",0,0.4714285714285714,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+6157010,"The ""Troops of St George"" were founded because those who hate and fear gays want their sons to grow up as hate-filled as they are. It is not a personal slur to say that you are a homophobe, RD. After all, you agree with the other homophobes that demean the good name of St George by associating it with homophobia.",0,0.3,D,"LR, SVM, BERT",1,1,0,1,0
+5761013,"How much time should we give blacks to ""get over"" apartheid?  
+The civil war in the US ended in 1865, but apparently some White's haven't ""gotten over it"".  How much time should they be given? 
+
+Could whites have ""built"" the south in the US (and other areas) without black male and female labour? 
+
+As for white men in influential positions - does anyone actually believe Donald Trump, a man with no political background or real interest in governing, someone who brags about grabbing women's genitalia and wouldn't submit  the most rudimentary resume for the job in releasing his taxes - would have the position if he were NOT white and male?  
+Hard to imagine black man or woman of any colour with that kind  of lack of skill set holding the most powerful position in the world.
+
+The US, as the author states, is not built on antagonism to white men.  In fact, they still profit enormously from pro white sentiment. Neo Nazi philosophy aside.",0,0.3,D,"LR, SVM, BERT",1,1,0,1,0
+6002556,"Thatta boy Johnny ,
+just ""cos Trump thinks you""re a wimp ,
+""cos ya'll got P.O. W.ed,
+it don""t mean everybody does,
+you got more class in your big toe .",0,0.4558823529411765,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+5483126,"Yes yes, we know, the ""Don Cherry for P.M."" gang, with a government full of his favourite goons...",0,0.3,D,"SVM, BERT",0,1,0,1,0
+321772,"Who are these people that say who they are in cyberspace? ADN think about that!
+
+As a moderator, I tell my posters ""be good or be sent to the junk heap""",0,0.1,D,"LR, SVM, BERT",1,1,0,1,0
+5561914,The intelligent rats abandon ship without getting wet.,0,0.2,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+600263,Happy as a pig in...,0,0.421875,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+5701217,"You claim I got the facts wrong. Yet you don't mention a single fact I supposedly got wrong, nor the slightest indication of what is wrong, nor any idea of what you think the truth actually is.
+
+That makes it utterly impossible to test the veracity of your claim - which leads me to believe that it's as ridiculous as I suspect it to be.",0,0.4,D,BERT,0,0,0,1,0
+6106140,"In order to understand the term ""islamophobia"" we must also understand Islam's own misogyny, homophobia, hatred of  Jews, Hindus, Buddhists, Europe,  America, democracy, dogs,  free speech,  human rights and everything else not permitted (haram) by Islam.",0,0.0,D,"LR, SVM, BERT",1,1,0,1,0
+5218685,Duncan seems to have the same crazy glare as Nutty Freeland.,0,0.2,D,"LR, SVM, BERT",1,1,0,1,0
+571603,"It's too sickening to believe but yet another sexual predator of young girls in the slave trade is intimately associated with the Clintons and who help found the Clinton Foundation while paying $3.5 million to that foundation in a quid pro quo.......
+
+
+Billionaire pedophile Jeffrey Epstein sent $3.5 million to Bill and Hillary Clinton‘s foundation after an underage sex slave probe began, according to secret Swiss bank records leaked by a whistleblower.
+
+Billionaire sex offender Epstein once claimed he co-founded Clinton Foundation
+Attorneys for convicted sex offender Jeffrey Epstein touted his close friendship with Bill Clinton and even claimed the billionaire helped start Clinton's controversial family foundation in a 2007 letter aimed at boosting his image during plea negotiations, FoxNews.com has learned.
+
+http://www.foxnews.com/us/2016/07/06/billionaire-sex-offender-epstein-on...",0,0.1666666666666666,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+5984223,Oh dirty lying media.  Something is not a threat if its contingent on the bad conduct of the other.  It's not a threat when police say they will jail a criminal.,0,0.2,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+5339829,"With Trump about to kick the “Church of Climate Blame” in the junk today, expect much wailing and gnashing of teeth among its true believers and their green energy scam fellow-travellers.
+
+Music to my ears…",0,0.3,D,"LR, SVM, BERT",1,1,0,1,0
+604736,"Square? Moi.
+
+Au contraire scubie doobie rubie.  
+
+I am a cube, you boob.",0,0.4428571428571429,D,"DistilBERT, BERT",0,0,1,1,0
+880461,"Trump and his cabinet are the elites, sheep...",0,0.0,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+990664,"Well the Liberals said they were going to:
+
+Implement electoral reform
+Fight that horrible C-51 to the death
+Cut taxes for middle class
+Reduce deficit to 10 B, on route to balanced budget
+Legalize Maryjane
+Bring back integrity and ethics to government
+Pour gobs of money to every special interest group
+
+0-7
+
+In the meantime, we all better have extra zippers installed in our pockets, as the Liberals continue the pseudo economic stimulus, through massive government spending.
+
+Oh, and re-promise this stuff, in the next election.......as suckers are still born every minute.",0,0.4,D,"LR, SVM, BERT",1,1,0,1,0
+275376,"maybe time to think of impeaching him, hes too arrogant and wont listen to anyone",0,0.0,D,"LR, SVM, BERT",1,1,0,1,0
+5227659,Oh look ...those people with the cheap insurance live in the USA land of the free and home of the brave where the citizens get to make decisions regarding their healthcare coverage themselves ...not the government. The nerve of men thinking they don't need OBGYN coverage and the gall of those 50+ y/o people who stupidly think they don't need pediatric coverage,0,0.3,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+6149842,What a game!!!!  The way they played made me hold on to my butt.  Really spooky with the ups and downs this team goes through each game.  But I'm happy for them that they could pull it off.  More gym time in store for the team.,0,0.3,D,"DistilBERT, BERT",0,0,1,1,0
+779859,Totally inane.,0,0.2,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+5908479,"""totally ludicrous plan""
+
+Not as ludicrous as heavy elevated rail.",0,0.0,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+5265205,I'll vote for the Chimp.......what have I got to lose?,0,0.2,D,"DistilBERT, BERT",0,0,1,1,0
+698291,I noticed you said 'Harper's Party'...yes... the little muffin man was quite the troll in his fantasy world of 'Harperland' and sole sourcing corrupt contracts for kickbacks on the F-35 program!,0,0.4,D,"LR, SVM, BERT",1,1,0,1,0
+878040,"Well Dick, The orange one had a no-show inauguration, lost the popular vote and hundreds of thousands of people have demonstrated their contempt for what the child stands for. It really is that simple and you are only too simple to understand that. Now, lets reverse the situation and here we are today with the NRA nut jobs (200 of them) protesting the election in Anchorage because Clinton won. You know as well as I that you'd be all over the wrongness of the outcome like flies on doo-doo. Of course, your vituperations would not be hate, right? How many Dicks are there anyway? I ask because from where I sit only someone named Dick could use the word intolerance describing a movement when his chosen leader EVERY SINGLE DAY, if not by the hour, demonstrates nothing but intolerance and contempt via his beloved tweeties",0,0.4,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+6073722,"If the shooter had used a suppressor, it wouldn't have made one iota difference, he was at least 300 yards away as well as shooting from inside the hotel room, no one could tell where the shots were coming from anyway. Getting 14 weapons into a hotel room is easy if you have a few days to do it piecemeal. AFAIK. All his guns were illegally obtained, so 'gun control' wouldn't have made a scrap of difference. Paddock was a nutter and a hardened criminal, just like his father.",0,0.1666666666666666,D,BERT,0,0,0,1,0
+5197230,"hey bud you know they actually do that already, they understand what sustainable means and thus self regulate very well by not over doing it.. the environment is just fine,, the only thing being raped is your intelligence, stop drinking the cult koolaid",0,0.2666666666666666,D,BERT,0,0,0,1,0
+6208434,"Are they?
+
+I never see their comments. Once I identify an Observer, I MUTE the username and never have to read another silly post from #55.",0,0.0,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+257787,Brooks taking the three is only a big deal to coach K.  Maybe a little bit of a sore loser?,0,0.1666666666666666,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+5199364,Tar and feather the coward O'Leary. Draft Rait now.,0,0.4107142857142857,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+5183016,We as citizen being taxed should not be required to give money to help it buy ugly items that have nothing to do with the history of Alaska or Anchorage. Junk called art.,0,0.4,D,"DistilBERT, BERT",0,0,1,1,0
+5481035,"Exactly. We can afford bombing brown people in foreign lands or healthcare for sick Americans. We definitely can't do both. Bring on that sweet, sweet f-35 pork, amirite??",0,0.4,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+749850,"But it just might be a lunatic you're looking for. You know the song, just jump in.",0,0.2,D,"LR, SVM, DistilBERT, BERT",1,1,1,1,0
+517656,"What Catholics?  Is this coming from a man who utilizes slander, foul/sexist, language and believes that building walls between nations is what Christianity/Catholicism is all about?",0,0.0,D,"LR, SVM, BERT",1,1,0,1,0
+5397310,O Baal:  don't mute me!!!  I may have to slit my wrists and wear a hairshirt and cilice!,0,0.2941176470588235,D,BERT,0,0,0,1,0
+5365573,"I think you missed her point about aligning with Saudi Arabia: Britain, the U.S. and most of the Western world continues to support S.A. the biggest exporter of wahabi/salafist fundamentalism.  The hypocracy is staggering.",0,0.3,D,"DistilBERT, BERT",0,0,1,1,0
+788054,"Trump is absurd. He receives talking points with full confidence from certified loons Alex Jones and #1 cheerleader Sean Hannity, while disregarding the fact-based findings of the FBI, CIA and others. 
+
+Assange is no better: a tinpot manipulator with a get-out-of-jail-free agenda of his own. Why did he never release any revelations from the RNC? Who were his sources? He'll never tell.
+
+Meanwhile, Russia holds all the cards – their stooge now firmly implanted in the whiter than white-house. And they are already exonerated by Trump for unprecedented electoral interference. 
+
+It's only about who wins. Not whose throats were slit, to put him there.",0,0.4,D,"DistilBERT, BERT",0,0,1,1,0
